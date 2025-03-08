@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "name": "t:sections.header.name",
   "type": "header",
@@ -5,67 +14,17 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
-        "announcement-bar-0": {
-          "type": "announcement",
-          "settings": {
-            "icon": "none",
-            "another_icon": "",
-            "custom_icon": "",
-            "text": "Make an announcement",
-            "text_size": 90,
-            "link": "",
-            "open_new_window": false,
-            "button_label_or_code": "Shop Now",
-            "button_link": "",
-            "open_new_window_button": false,
-            "button_color": "#743718",
-            "button_text_color": "#ffffff",
-            "button_color_dark": "#743718",
-            "button_text_color_dark": "#ffffff",
-            "timezone": "-4",
-            "end_year": 2023,
-            "end_month": "9",
-            "end_day": "31",
-            "end_hour": "1",
-            "end_minute": "0"
-          }
-        },
-        "79abd403-3d9f-4b27-a4f6-8ad8219e384c": {
-          "type": "announcement",
-          "settings": {
-            "icon": "none",
-            "another_icon": "",
-            "custom_icon": "",
-            "text": "Make an announcement",
-            "text_size": 90,
-            "link": "",
-            "open_new_window": false,
-            "button_label_or_code": "",
-            "button_link": "",
-            "open_new_window_button": true,
-            "button_color": "#743718",
-            "button_text_color": "#ffffff",
-            "button_color_dark": "#743718",
-            "button_text_color_dark": "#ffffff",
-            "timezone": "-4",
-            "end_year": 2024,
-            "end_month": "4",
-            "end_day": "26",
-            "end_hour": "23",
-            "end_minute": "0"
-          }
-        },
         "6be690ad-170e-4af3-9bbb-0a11620d222a": {
           "type": "promo_code",
           "settings": {
             "icon": "none",
             "another_icon": "",
             "custom_icon": "",
-            "text": "Make an announcement",
+            "text": "Delivery All Over Lebanon",
             "text_size": 90,
             "link": "",
             "open_new_window": false,
-            "button_label_or_code": "COUPON_CODE",
+            "button_label_or_code": "",
             "coupon_color": "rgba(0,0,0,0)",
             "coupon_color_dark": "rgba(0,0,0,0)",
             "timezone": "-4",
@@ -78,8 +37,6 @@
         }
       },
       "block_order": [
-        "announcement-bar-0",
-        "79abd403-3d9f-4b27-a4f6-8ad8219e384c",
         "6be690ad-170e-4af3-9bbb-0a11620d222a"
       ],
       "settings": {
@@ -87,8 +44,8 @@
         "show_only_on_homepage": false,
         "enable_sticky_bar": false,
         "enable_carousel_on_desktop": true,
-        "backgound_color": "#ded5cd",
-        "text_color": "#2b2b2b",
+        "backgound_color": "#273a89",
+        "text_color": "#ffffff",
         "textlink_color_light": "rgba(0,0,0,0)",
         "backgound_color_dark": "#f4f4f2",
         "text_color_dark": "#2b2b2b",
@@ -112,7 +69,9 @@
         "select_motion": "hover",
         "full_width": true,
         "logo_position": "left-center",
-        "sticky_header_type": "on-scroll-up",
+        "mobile_header_layout": "center-left",
+        "sticky_header_type": "always",
+        "logo": "shopify://shop_images/teal-tea-website-logo-light-blue.png",
         "logo_width": 130,
         "logo_width_mobile": 100,
         "show_social_icons": false,
@@ -125,6 +84,11 @@
         "textlink_color_dark": "rgba(0,0,0,0)",
         "shadow_color": "#000000",
         "shadow_color_dark": "#000000",
+        "enable_highlight": false,
+        "menus": "",
+        "highlight_style": "marker",
+        "highlight_color_light": "rgba(0,0,0,0)",
+        "highlight_color_dark": "rgba(0,0,0,0)",
         "header_show_language_selector": false,
         "header_show_currency_selector": false,
         "show_section_divider": false,
@@ -140,13 +104,11 @@
       "blocks": {
         "mobile-navigation-2": {
           "type": "account",
-          "settings": {
-          }
+          "settings": {}
         },
         "mobile-navigation-3": {
           "type": "social",
-          "settings": {
-          }
+          "settings": {}
         }
       },
       "block_order": [
@@ -157,14 +119,19 @@
         "menu": "main-menu",
         "show_language_selector": true,
         "show_currency_selector": true,
-        "background_color": "#f9f4ef",
-        "text_color": "#211e1e",
+        "background_color": "#ffffff",
+        "text_color": "#273a89",
         "colors_text_link": "#545252",
-        "divider_color": "#ded5cd",
+        "divider_color": "#f2f2f2",
         "background_color_dark": "#343131",
         "text_color_dark": "#ffffff",
         "colors_text_link_dark": "#cac7c7",
-        "divider_color_dark": "#5b5553"
+        "divider_color_dark": "#5b5553",
+        "enable_highlight": false,
+        "menus": "",
+        "highlight_style": "marker",
+        "highlight_color_light": "rgba(0,0,0,0)",
+        "highlight_color_dark": "rgba(0,0,0,0)"
       }
     }
   },
