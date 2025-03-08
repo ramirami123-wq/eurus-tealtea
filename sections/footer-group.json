@@ -1,0 +1,221 @@
+{
+  "name": "t:sections.footer.name",
+  "type": "footer",
+  "sections": {
+    "newsletter_PGyBAW": {
+      "type": "newsletter",
+      "blocks": {
+        "heading_dKRFAK": {
+          "type": "heading",
+          "settings": {
+            "heading": "Follow us for more flavours",
+            "highlight_type": "underline",
+            "heading_size": 80,
+            "heading_tag": "h2"
+          }
+        },
+        "paragraph_pYKcP4": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
+          }
+        },
+        "email_form_CAEgrz": {
+          "type": "email_form",
+          "settings": {
+            "button_label": "Subscribe",
+            "form_width": "large"
+          }
+        }
+      },
+      "block_order": [
+        "heading_dKRFAK",
+        "paragraph_pYKcP4",
+        "email_form_CAEgrz"
+      ],
+      "settings": {
+        "overlay_opacity": 0,
+        "background_color_light": "#f9f4ef",
+        "heading_light": "rgba(0,0,0,0)",
+        "text_light": "rgba(0,0,0,0)",
+        "color_heading_highlight_light": "rgba(0,0,0,0)",
+        "button_light": "rgba(0,0,0,0)",
+        "button_text_light": "rgba(0,0,0,0)",
+        "button_hover_light": "rgba(0,0,0,0)",
+        "button_text_hover_light": "rgba(0,0,0,0)",
+        "line_border": "#dfdfdc",
+        "background_color_dark": "#313030",
+        "heading_dark": "rgba(0,0,0,0)",
+        "text_dark": "rgba(0,0,0,0)",
+        "color_heading_highlight_dark": "rgba(0,0,0,0)",
+        "button_dark": "rgba(0,0,0,0)",
+        "button_text_dark": "rgba(0,0,0,0)",
+        "button_hover_dark": "rgba(0,0,0,0)",
+        "button_text_hover_dark": "rgba(0,0,0,0)",
+        "line_border_dark": "#3c3b3b",
+        "desktop_height": "450px",
+        "show_section_divider": false,
+        "padding_top": 40,
+        "padding_bottom": 68,
+        "mobile_height": "300px",
+        "show_section_divider_mobile": false,
+        "padding_top_mobile": 40,
+        "padding_bottom_mobile": 20
+      }
+    },
+    "quick_links": {
+      "type": "quick-links",
+      "blocks": {
+        "link_list_trXGRy": {
+          "type": "link_list",
+          "settings": {
+            "title": "Quick link",
+            "url": "",
+            "open_new_window_button": false
+          }
+        },
+        "link_list_MBmGzm": {
+          "type": "link_list",
+          "settings": {
+            "title": "Quick link",
+            "url": "",
+            "open_new_window_button": false
+          }
+        },
+        "link_list_HPpnKn": {
+          "type": "link_list",
+          "settings": {
+            "title": "Quick link",
+            "url": "",
+            "open_new_window_button": false
+          }
+        }
+      },
+      "block_order": [
+        "link_list_trXGRy",
+        "link_list_MBmGzm",
+        "link_list_HPpnKn"
+      ],
+      "disabled": true,
+      "settings": {
+        "alignment": "center",
+        "link_spacing": 40,
+        "show_lines": false,
+        "mobile_layout": "1",
+        "mobile_alignment": "start",
+        "bg_light": "rgba(0,0,0,0)",
+        "bg_dark": "rgba(0,0,0,0)",
+        "color_text_light": "rgba(0,0,0,0)",
+        "color_text_dark": "rgba(0,0,0,0)",
+        "top_padding": 28,
+        "bottom_padding": 28,
+        "top_padding_mobile": 28,
+        "bottom_padding_mobile": 28
+      }
+    },
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "footer-2": {
+          "type": "text",
+          "settings": {
+            "open_by_default": false,
+            "heading_text": "About",
+            "subtext": "<p>Share store details, promotions, or brand content with your customers.<\/p>",
+            "show_social_icons": false,
+            "image_width": 100,
+            "link_image_footer": "",
+            "open_new_window": false
+          }
+        },
+        "footer-0": {
+          "type": "link_list",
+          "settings": {
+            "open_by_default": true,
+            "heading_menu": "Popular Shop",
+            "menu": "main-menu",
+            "show_social_icons": false
+          }
+        },
+        "footer-1": {
+          "type": "link_list",
+          "settings": {
+            "open_by_default": false,
+            "heading_menu": "Explore",
+            "menu": "main-menu",
+            "show_social_icons": false
+          }
+        },
+        "link_list_i9gHXh": {
+          "type": "link_list",
+          "settings": {
+            "open_by_default": false,
+            "heading_menu": "Information",
+            "menu": "main-menu",
+            "show_social_icons": false
+          }
+        },
+        "contact_LbERbb": {
+          "type": "contact",
+          "settings": {
+            "open_by_default": false,
+            "heading_menu": "Need help",
+            "icon_1": "question-mark",
+            "another_icon_1": "",
+            "custom_icon": "",
+            "title_1": "Got questions? Call us 24\/7",
+            "text_1": "1908474783",
+            "text_link_1": "",
+            "open_new_window_1": false,
+            "enable_text_link_1": true,
+            "icon_2": "message-text",
+            "another_icon_2": "",
+            "custom_icon_2": "",
+            "title_2": "Need help with your order?",
+            "text_2": "Contact",
+            "text_link_2": "",
+            "open_new_window_2": false,
+            "enable_text_link_2": true,
+            "icon_3": "chat-bubble",
+            "another_icon_3": "",
+            "custom_icon_3": "",
+            "title_3": "Available 24\/7 via chat",
+            "text_3": "Chat With US",
+            "text_link_3": "",
+            "open_new_window_3": false,
+            "enable_text_link_3": true
+          }
+        }
+      },
+      "block_order": [
+        "footer-2",
+        "footer-0",
+        "footer-1",
+        "link_list_i9gHXh",
+        "contact_LbERbb"
+      ],
+      "settings": {
+        "columns_desktop": 5,
+        "show_language_selector": true,
+        "show_currency_selector": true,
+        "show_social_icons": false,
+        "payment_enable": true,
+        "custom_payment": "",
+        "show_copyright": true,
+        "add_copyright_text": "",
+        "additional_layout": "horizontal",
+        "show_powered": true,
+        "enable_follow_on_shop": false,
+        "top_padding": 0,
+        "bottom_padding": 40,
+        "top_padding_mobile": 0,
+        "bottom_padding_mobile": 28
+      }
+    }
+  },
+  "order": [
+    "newsletter_PGyBAW",
+    "quick_links",
+    "footer"
+  ]
+}

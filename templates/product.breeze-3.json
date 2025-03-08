@@ -1,0 +1,919 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "badges": {
+          "type": "badges",
+          "settings": {
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_tax_and_shipping": false,
+            "text_size_price": 70
+          }
+        },
+        "2d610cc7-7c1d-47ec-b886-6622ff256967": {
+          "type": "estimate_delivery",
+          "settings": {
+            "hide_when_pre_order": true,
+            "message": "<p>You can receive the package between <strong>earliest_delivery_date and latest_delivery_date<\/strong><\/p>",
+            "tooltip_text": "delivery tooltip",
+            "tooltip_icon": "none",
+            "custom_icon": "",
+            "tooltip_icon_position": "left",
+            "tooltip_message": "",
+            "show_background": false,
+            "box_type": "square",
+            "background_color_light": "rgba(0,0,0,0)",
+            "message_color_light": "rgba(0,0,0,0)",
+            "background_color_dark": "rgba(0,0,0,0)",
+            "message_color_dark": "rgba(0,0,0,0)",
+            "bg_tooltip_color_light": "rgba(0,0,0,0)",
+            "tooltip_color_light": "rgba(0,0,0,0)",
+            "bg_tooltip_color_dark": "rgba(0,0,0,0)",
+            "tooltip_color_dark": "rgba(0,0,0,0)"
+          }
+        },
+        "product_sibling_z9LcMq": {
+          "type": "product_sibling",
+          "settings": {
+            "option_name": "Flavour",
+            "collection_handle_metafield": "custom.sibling_collection_handle",
+            "option_value_metafield": "custom.sibling_style",
+            "variant_type": "button",
+            "enable_color_swatch": true,
+            "swatch_size": "small"
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "show_variant_option": true,
+            "enable_color_swatches": true,
+            "swatch_size": "small"
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true,
+            "pickup_availability": true,
+            "hide_when_pre_order": false,
+            "preorder_button_label": "Pre-order",
+            "preorder_message": "<p>This product will be available for sale in 2 weeks, but you can pre-order now to receive 10% discount!<\/p>",
+            "preorder_show_dynamic_button": false,
+            "show_background": false,
+            "box_type": "square",
+            "background_color_light": "rgba(0,0,0,0)",
+            "message_color_light": "rgba(0,0,0,0)",
+            "background_color_dark": "rgba(0,0,0,0)",
+            "message_color_dark": "rgba(0,0,0,0)",
+            "button_light": "rgba(0,0,0,0)",
+            "button_text_light": "rgba(0,0,0,0)",
+            "button_hover_light": "rgba(0,0,0,0)",
+            "button_text_hover_light": "rgba(0,0,0,0)",
+            "secondary_button_light": "rgba(0,0,0,0)",
+            "secondary_button_text_light": "rgba(0,0,0,0)",
+            "button_dark": "rgba(0,0,0,0)",
+            "button_text_dark": "rgba(0,0,0,0)",
+            "button_hover_dark": "rgba(0,0,0,0)",
+            "button_text_hover_dark": "rgba(0,0,0,0)",
+            "secondary_button_dark": "rgba(0,0,0,0)",
+            "secondary_button_text_dark": "rgba(0,0,0,0)"
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "show_in_tab": true,
+            "open_by_default": false,
+            "make_content_center": false,
+            "icon": "none",
+            "another_icon": "",
+            "custom_icon": "",
+            "heading": "Description",
+            "number_of_lines_shown": "none",
+            "read_more_label": "Read more"
+          }
+        },
+        "nutrition_fact_z8TKQ7": {
+          "type": "nutrition_fact",
+          "settings": {
+            "show_in_tab": true,
+            "open_by_default": true,
+            "icon": "activity",
+            "another_icon": "food grade",
+            "custom_icon": "",
+            "heading": "Nutrition Facts",
+            "enable_background": true,
+            "nutrition_details": "<p>Protein 13g: 26% <br\/>Carbohydrates 67g: 24% <br\/>Fats 17g: 18%<\/p>",
+            "extra_detail": "The nutritional value shows for a single serving of a product, including the amount of calories, fats, carbohydrates, sugars, and proteins, as well as percentages of the daily recommended value (based on a 2,000-calorie diet).",
+            "content_background_color": "rgba(0,0,0,0)",
+            "content_background_color_dark": "rgba(0,0,0,0)",
+            "loading_bar_color": "rgba(0,0,0,0)"
+          }
+        },
+        "collapsible-row-0": {
+          "type": "collapsible_tab",
+          "settings": {
+            "open_by_default": false,
+            "icon": "none",
+            "another_icon": "",
+            "custom_icon": "",
+            "use_secondary_background": false,
+            "heading": "Additional information",
+            "tab_content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "collapsible-row-1": {
+          "type": "collapsible_tab",
+          "settings": {
+            "open_by_default": false,
+            "icon": "none",
+            "another_icon": "",
+            "custom_icon": "",
+            "use_secondary_background": false,
+            "heading": "Shipping and Returns",
+            "tab_content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "payment_methods_E4XqpU": {
+          "type": "payment_methods",
+          "settings": {
+            "heading": "Pay with",
+            "text": "Your transaction is protected with advanced security measures to keep your information confidential",
+            "custom_payment": "",
+            "show_secondary_background": false,
+            "background_color_light": "rgba(0,0,0,0)",
+            "heading_color_light": "rgba(0,0,0,0)",
+            "text_color_light": "rgba(0,0,0,0)",
+            "background_color_dark": "rgba(0,0,0,0)",
+            "heading_color_dark": "rgba(0,0,0,0)",
+            "text_color_dark": "rgba(0,0,0,0)"
+          }
+        },
+        "bb9477f3-6b80-4847-81b3-62d613f5b92a": {
+          "type": "social_sharing",
+          "settings": {
+          }
+        },
+        "d719bbb6-037d-4389-88a1-3eecbd7630b7": {
+          "type": "sticky_add_to_cart",
+          "settings": {
+            "desktop_display_type": "full_width",
+            "show_quantity_selector": false
+          }
+        }
+      },
+      "block_order": [
+        "badges",
+        "price",
+        "2d610cc7-7c1d-47ec-b886-6622ff256967",
+        "product_sibling_z9LcMq",
+        "variant_picker",
+        "quantity_selector",
+        "buy_buttons",
+        "description",
+        "nutrition_fact_z8TKQ7",
+        "collapsible-row-0",
+        "collapsible-row-1",
+        "payment_methods_E4XqpU",
+        "bb9477f3-6b80-4847-81b3-62d613f5b92a",
+        "d719bbb6-037d-4389-88a1-3eecbd7630b7"
+      ],
+      "settings": {
+        "enable_sticky_image": true,
+        "show_product_name": true,
+        "title_size": 100,
+        "heading_tag": "h1",
+        "show_vendor": false,
+        "link_vendor": false,
+        "make_content_center": false,
+        "desktop_layout": "left",
+        "desktop_media_layout": "thumbnail_slider",
+        "show_arrow_button": true,
+        "mobile_media_size": "full_width",
+        "show_thumnail_mobile": false,
+        "image_ratio": "natural",
+        "thumbnail_position": "vertical",
+        "enable_image_zoom": false,
+        "enable_video_autoplay": false,
+        "enable_video_loop": false,
+        "show_first_image_avaiable": true,
+        "show_media_with_variant_selected": false,
+        "option_to_classify_variant_media": "",
+        "enable_microdata": false,
+        "show_breadcrumbs": true,
+        "show_breadcrumbs_border": false,
+        "full_width_breadcrumb": true,
+        "desktop_content_alignment": "text-left",
+        "mobile_content_alignment": "text-left",
+        "background_color_light": "rgba(0,0,0,0)",
+        "text_color_light": "rgba(0,0,0,0)",
+        "textlink_color_light": "rgba(0,0,0,0)",
+        "background_color_dark": "rgba(0,0,0,0)",
+        "text_color_dark": "rgba(0,0,0,0)",
+        "textlink_color_dark": "rgba(0,0,0,0)",
+        "full_width": false,
+        "spacing_col": "small",
+        "padding_top": 24,
+        "padding_bottom": 52,
+        "padding_top_mobile": 16,
+        "padding_bottom_mobile": 28
+      }
+    },
+    "comparison_table_DBr86U": {
+      "type": "comparison-table",
+      "blocks": {
+        "criterion_pBMncx": {
+          "type": "criterion",
+          "settings": {
+            "heading": "Clinically proven",
+            "criterion_detail_product": "Yes",
+            "criterion_detail_externals": "No\nNo\nNo\nNo"
+          }
+        },
+        "criterion_awkbJJ": {
+          "type": "criterion",
+          "settings": {
+            "heading": "Electrolytes",
+            "criterion_detail_product": "16mg",
+            "criterion_detail_externals": "78mg\n78mg\n78mg"
+          }
+        },
+        "criterion_LgVeqA": {
+          "type": "criterion",
+          "settings": {
+            "heading": "No artificial colors or sweeteners",
+            "criterion_detail_product": "Yes",
+            "criterion_detail_externals": "No\nNo\nNo\nNo"
+          }
+        },
+        "criterion_xEznUV": {
+          "type": "criterion",
+          "settings": {
+            "heading": "Commitment to sustainability",
+            "criterion_detail_product": "Yes",
+            "criterion_detail_externals": "No\nNo\nNo\nNo"
+          }
+        }
+      },
+      "block_order": [
+        "criterion_pBMncx",
+        "criterion_awkbJJ",
+        "criterion_LgVeqA",
+        "criterion_xEznUV"
+      ],
+      "settings": {
+        "heading": "[Us vs Them]",
+        "highlight_type": "underline",
+        "heading_size": 100,
+        "heading_tag": "h2",
+        "heading_alignment": "center",
+        "description": "<p>From high-quality ingredients to delicious flavors, here’s a snapshot of why health conscious people are trying and sticking with our recovery drink over others.<\/p>",
+        "product": "",
+        "alternative_text": "Eurus F&D",
+        "external_item_labels": "Grocery stores\nMini marts\nSupermarkets",
+        "background_color_light": "rgba(0,0,0,0)",
+        "heading_light": "rgba(0,0,0,0)",
+        "color_heading_highlight_light": "rgba(0,0,0,0)",
+        "text_light": "rgba(0,0,0,0)",
+        "column_highlight_light": "rgba(0,0,0,0)",
+        "line_border": "rgba(0,0,0,0)",
+        "background_color_dark": "rgba(0,0,0,0)",
+        "heading_dark": "rgba(0,0,0,0)",
+        "color_heading_highlight_dark": "rgba(0,0,0,0)",
+        "text_dark": "rgba(0,0,0,0)",
+        "column_highlight_dark": "rgba(0,0,0,0)",
+        "line_border_dark": "rgba(0,0,0,0)",
+        "full_width": false,
+        "show_section_divider": false,
+        "padding_top": 28,
+        "padding_bottom": 28,
+        "show_section_divider_mobile": false,
+        "padding_top_mobile": 28,
+        "padding_bottom_mobile": 28
+      }
+    },
+    "promotion_banner_WNAftC": {
+      "type": "promotion-banner",
+      "blocks": {
+        "image_banner_QEfknV": {
+          "type": "image_banner",
+          "settings": {
+            "heading": "[Food & Drinks] How You Like’s",
+            "highlight_type": "underline",
+            "heading_size": 130,
+            "heading_tag": "h2",
+            "subheading": "",
+            "text": "One of the reasons our snacks taste so good is cos’ every bag packs a superior crunch - Like, seriously, these are some super noisy snacks. Because you have to HEAR it to believe it.",
+            "text_size": 120,
+            "content_box_type": "square",
+            "add_frame": false,
+            "color_content_box_light": "rgba(0,0,0,0)",
+            "color_content_box_dark": "rgba(0,0,0,0)"
+          }
+        },
+        "buttons_f4a7qR": {
+          "type": "buttons",
+          "settings": {
+            "button_label": "Shop Bundles",
+            "button_link": "",
+            "open_new_window_button": true,
+            "show_button_style_1": "primary",
+            "button_label_2": "",
+            "button_link_2": "",
+            "open_new_window_button_2": false,
+            "show_button_style_2": "primary",
+            "color_button": "rgba(0,0,0,0)",
+            "color_button_hover": "rgba(0,0,0,0)",
+            "color_text_button": "rgba(0,0,0,0)",
+            "color_text_button_hover": "rgba(0,0,0,0)",
+            "color_button_secondary": "rgba(0,0,0,0)",
+            "secondary_button_text": "rgba(0,0,0,0)",
+            "colors_text_link": "rgba(0,0,0,0)"
+          }
+        }
+      },
+      "block_order": [
+        "image_banner_QEfknV",
+        "buttons_f4a7qR"
+      ],
+      "settings": {
+        "heading": "Promotion Banner",
+        "image": "",
+        "image_mobile": "",
+        "image_link": "",
+        "open_new_window": false,
+        "image_overlay_opacity": 0,
+        "content_position": "center-left",
+        "content_horizontal": 50,
+        "content_vertical": 50,
+        "position_content_mobile": "top-center",
+        "content_alignment": "center",
+        "show_hero": false,
+        "full_width": true,
+        "padding_full_width": false,
+        "rounded_corner_image": true,
+        "desktop_height": "750px",
+        "padding_top": 28,
+        "padding_bottom": 28,
+        "full_width_mobile": true,
+        "rounded_corner_image_mobile": true,
+        "mobile_height": "400px",
+        "padding_top_mobile": 0,
+        "padding_bottom_mobile": 20
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "heading": "Related Products By Brand",
+        "highlight_type": "underline",
+        "heading_size": 100,
+        "heading_tag": "h2",
+        "heading_alignment": "center",
+        "products_to_show": 8,
+        "background_color_light": "",
+        "background_color_dark": "",
+        "show_vendor": false,
+        "show_rating": true,
+        "show_quickview": true,
+        "enable_carousel_desktop": true,
+        "enable_swiper_mobile": true,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_section_divider": true,
+        "spacing": 28,
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "columns_mobile": "1",
+        "show_section_divider_mobile": false,
+        "spacing_mobile": 16,
+        "padding_top_mobile": 40,
+        "padding_bottom_mobile": 20
+      }
+    },
+    "text_column_with_image_Ai3QLn": {
+      "type": "text-column-with-image",
+      "blocks": {
+        "column_C7iKhp": {
+          "type": "column",
+          "settings": {
+            "image": "",
+            "image_link": "",
+            "open_new_window_image": false,
+            "sub_title": "",
+            "title": "Fresh Meat",
+            "highlight_type": "underline",
+            "heading_size": 100,
+            "text": "<p>Organic chicken, pork and beef meat<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "open_new_window": false,
+            "show_button_style": "primary"
+          }
+        },
+        "column_cYqy6m": {
+          "type": "column",
+          "settings": {
+            "image": "",
+            "image_link": "",
+            "open_new_window_image": false,
+            "sub_title": "",
+            "title": "Drinks & Teas",
+            "highlight_type": "underline",
+            "heading_size": 100,
+            "text": "<p>Refreshing juice and teas<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "open_new_window": false,
+            "show_button_style": "primary"
+          }
+        },
+        "column_fyU3eF": {
+          "type": "column",
+          "settings": {
+            "image": "",
+            "image_link": "",
+            "open_new_window_image": false,
+            "sub_title": "",
+            "title": "Milk and Desserts",
+            "highlight_type": "underline",
+            "heading_size": 100,
+            "text": "<p>Organic, Non-GMO plant-based milk and healthy sweet treats<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "open_new_window": false,
+            "show_button_style": "primary"
+          }
+        },
+        "column_BT3TVh": {
+          "type": "column",
+          "settings": {
+            "image": "",
+            "image_link": "",
+            "open_new_window_image": false,
+            "sub_title": "",
+            "title": "Bread & Bakery",
+            "highlight_type": "underline",
+            "heading_size": 100,
+            "text": "<p>Fresh from the oven everyday<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "open_new_window": false,
+            "show_button_style": "primary"
+          }
+        }
+      },
+      "block_order": [
+        "column_C7iKhp",
+        "column_cYqy6m",
+        "column_fyU3eF",
+        "column_BT3TVh"
+      ],
+      "settings": {
+        "title": "Something for [Everyone]",
+        "highlight_type": "underline",
+        "heading_size": 100,
+        "heading_tag": "h2",
+        "secondary_background": "column",
+        "image_ratio": "75%",
+        "rounded_corner_image": true,
+        "column_content_alignment": "center",
+        "background_color_light": "#ffffff",
+        "heading_light": "rgba(0,0,0,0)",
+        "text_light": "rgba(0,0,0,0)",
+        "color_heading_highlight_light": "rgba(0,0,0,0)",
+        "background_color_dark": "#ffffff",
+        "heading_dark": "rgba(0,0,0,0)",
+        "text_dark": "rgba(0,0,0,0)",
+        "color_heading_highlight_dark": "rgba(0,0,0,0)",
+        "enable_desktop_slider": false,
+        "swiper_on_mobile": true,
+        "auto_play": false,
+        "change_bar_every": 5,
+        "image_position_desktop": "top",
+        "column_layout_desktop": "lg:w-1\/4",
+        "spacing_desktop": 28,
+        "full_width": false,
+        "padding_full_width": false,
+        "show_section_divider": false,
+        "padding_top": 28,
+        "padding_bottom": 28,
+        "image_position_mobile": "top",
+        "column_layout_mobile": "w-full",
+        "spacing_mobile": 16,
+        "full_width_mobile": false,
+        "show_section_divider_mobile": false,
+        "padding_top_mobile": 20,
+        "padding_bottom_mobile": 20
+      }
+    },
+    "faq_VKYm4r": {
+      "type": "faq",
+      "blocks": {
+        "frequently_asked_question_xdfyEF": {
+          "type": "frequently_asked_question",
+          "settings": {
+            "icon": "heart",
+            "another_icon": "chat bubble",
+            "custom_icon": "",
+            "heading": "What kind of products do you sell?",
+            "row_content": "<p>We offer a wide variety of food and drink products, including fresh produce, pantry staples, gourmet ingredients, and ready-made meals.<\/p>"
+          }
+        },
+        "frequently_asked_question_Qbeqa7": {
+          "type": "frequently_asked_question",
+          "settings": {
+            "icon": "heart",
+            "another_icon": "chat bubble",
+            "custom_icon": "",
+            "heading": "Do you offer delivery?",
+            "row_content": "<p>Yes, we offer delivery services within [your delivery area]. Please check our delivery page for more details and fees.<\/p>"
+          }
+        },
+        "frequently_asked_question_Jzgg3A": {
+          "type": "frequently_asked_question",
+          "settings": {
+            "icon": "heart",
+            "another_icon": "chat bubble",
+            "custom_icon": "",
+            "heading": "How can I track my order?",
+            "row_content": "<p>Once your order is shipped, you will receive a tracking number via email. You can use this number to track the progress of your delivery on the shipping carrier's website.<\/p>"
+          }
+        },
+        "frequently_asked_question_xq6ERQ": {
+          "type": "frequently_asked_question",
+          "settings": {
+            "icon": "heart",
+            "another_icon": "chat bubble",
+            "custom_icon": "",
+            "heading": "Are your products fresh?",
+            "row_content": "<p>We prioritize freshness and quality in all our products. Our produce is sourced daily, and our ready-made meals are prepared with the freshest ingredients.<\/p>"
+          }
+        },
+        "frequently_asked_question_PwMq9L": {
+          "type": "frequently_asked_question",
+          "settings": {
+            "icon": "heart",
+            "another_icon": "chat bubble",
+            "custom_icon": "",
+            "heading": "Do you offer organic or gluten-free options?",
+            "row_content": "<p>Yes, we have a selection of organic and gluten-free products. Please look for the corresponding labels on our website.<\/p>"
+          }
+        },
+        "frequently_asked_question_d8LdVE": {
+          "type": "frequently_asked_question",
+          "settings": {
+            "icon": "heart",
+            "another_icon": "chat bubble",
+            "custom_icon": "",
+            "heading": "Can I request special dietary accommodations?",
+            "row_content": "<p>We can accommodate certain dietary restrictions, such as allergies or intolerances. Please contact our customer service team for more information.<\/p>"
+          }
+        },
+        "frequently_asked_question_VQgMy3": {
+          "type": "frequently_asked_question",
+          "settings": {
+            "icon": "heart",
+            "another_icon": "chat bubble",
+            "custom_icon": "",
+            "heading": "What payment methods do you accept?",
+            "row_content": "<p>We accept payment methods, including credit cards, PayPal, Apple Pay.<\/p>"
+          }
+        },
+        "frequently_asked_question_DnyQBB": {
+          "type": "frequently_asked_question",
+          "settings": {
+            "icon": "heart",
+            "another_icon": "chat bubble",
+            "custom_icon": "",
+            "heading": "What is your return policy?",
+            "row_content": "<p>We offer a 30-day return policy for unopened and undamaged products. Please refer to our terms and conditions for more details.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "frequently_asked_question_xdfyEF",
+        "frequently_asked_question_Qbeqa7",
+        "frequently_asked_question_Jzgg3A",
+        "frequently_asked_question_xq6ERQ",
+        "frequently_asked_question_PwMq9L",
+        "frequently_asked_question_d8LdVE",
+        "frequently_asked_question_VQgMy3",
+        "frequently_asked_question_DnyQBB"
+      ],
+      "settings": {
+        "heading": "For your [Wonder]",
+        "highlight_type": "underline",
+        "heading_size": 100,
+        "heading_tag": "h2",
+        "heading_alignment": "center",
+        "show_border": false,
+        "row_background": true,
+        "collapsible": true,
+        "show_view_all": false,
+        "view_all_position": "top",
+        "button_link": "",
+        "open_new_window": false,
+        "background_color_light": "rgba(0,0,0,0)",
+        "background_color_dark": "rgba(0,0,0,0)",
+        "enable_microdata_schema": false,
+        "desktop_layout": "2",
+        "image_alignment": "left",
+        "desktop_height": "400px",
+        "show_section_divider": false,
+        "make_full_page_width": false,
+        "padding_top": 28,
+        "padding_bottom": 28,
+        "image_alignment_mobile": "left",
+        "mobile_height": "250px",
+        "show_section_divider_mobile": false,
+        "padding_top_mobile": 28,
+        "padding_bottom_mobile": 28
+      }
+    },
+    "media_gallery_WVEpQw": {
+      "type": "media-gallery",
+      "blocks": {
+        "media_xRrDcP": {
+          "type": "media",
+          "settings": {
+            "image": "",
+            "image_mobile": "",
+            "image_link": "",
+            "open_new_window": false,
+            "show_sound_control": false,
+            "video_url": "",
+            "enable_video_autoplay": true,
+            "video_alt_text": "",
+            "enable_content_overlay": true,
+            "content_position": "center",
+            "overlay_opacity": 0,
+            "number_of_columns": 1,
+            "number_of_row": 1,
+            "icon": "none",
+            "another_icon": "",
+            "custom_icon": "",
+            "icon_size": 45,
+            "sub_title": "",
+            "title": "",
+            "highlight_type": "underline",
+            "title_size": 80,
+            "text": "",
+            "text_size": 130,
+            "text_align": "center",
+            "media_position": "top",
+            "button_label": "",
+            "button_link": "",
+            "open_new_window_button": false,
+            "show_button_style": "primary",
+            "color_overlay": "rgba(0,0,0,0)",
+            "title_color": "rgba(0,0,0,0)",
+            "text_color": "rgba(0,0,0,0)",
+            "color_heading_highlight_light": "rgba(0,0,0,0)",
+            "color_button": "rgba(0,0,0,0)",
+            "background_button": "rgba(0,0,0,0)",
+            "color_button_hover": "rgba(0,0,0,0)",
+            "background_button_hover": "rgba(0,0,0,0)",
+            "color_button_secondary": "rgba(0,0,0,0)",
+            "secondary_button_text": "rgba(0,0,0,0)",
+            "colors_text_link": "rgba(0,0,0,0)"
+          }
+        },
+        "media_tPqULW": {
+          "type": "media",
+          "settings": {
+            "image": "",
+            "image_mobile": "",
+            "image_link": "",
+            "open_new_window": false,
+            "show_sound_control": false,
+            "video_url": "",
+            "enable_video_autoplay": true,
+            "video_alt_text": "",
+            "enable_content_overlay": true,
+            "content_position": "center",
+            "overlay_opacity": 0,
+            "number_of_columns": 1,
+            "number_of_row": 1,
+            "icon": "none",
+            "another_icon": "",
+            "custom_icon": "",
+            "icon_size": 45,
+            "sub_title": "",
+            "title": "",
+            "highlight_type": "underline",
+            "title_size": 80,
+            "text": "",
+            "text_size": 130,
+            "text_align": "center",
+            "media_position": "top",
+            "button_label": "",
+            "button_link": "",
+            "open_new_window_button": false,
+            "show_button_style": "primary",
+            "color_overlay": "rgba(0,0,0,0)",
+            "title_color": "rgba(0,0,0,0)",
+            "text_color": "rgba(0,0,0,0)",
+            "color_heading_highlight_light": "rgba(0,0,0,0)",
+            "color_button": "rgba(0,0,0,0)",
+            "background_button": "rgba(0,0,0,0)",
+            "color_button_hover": "rgba(0,0,0,0)",
+            "background_button_hover": "rgba(0,0,0,0)",
+            "color_button_secondary": "rgba(0,0,0,0)",
+            "secondary_button_text": "rgba(0,0,0,0)",
+            "colors_text_link": "rgba(0,0,0,0)"
+          }
+        },
+        "media_cKrQF3": {
+          "type": "media",
+          "settings": {
+            "image": "",
+            "image_mobile": "",
+            "image_link": "",
+            "open_new_window": false,
+            "show_sound_control": false,
+            "video_url": "",
+            "enable_video_autoplay": true,
+            "video_alt_text": "",
+            "enable_content_overlay": true,
+            "content_position": "center",
+            "overlay_opacity": 0,
+            "number_of_columns": 1,
+            "number_of_row": 1,
+            "icon": "none",
+            "another_icon": "",
+            "custom_icon": "",
+            "icon_size": 45,
+            "sub_title": "",
+            "title": "",
+            "highlight_type": "underline",
+            "title_size": 80,
+            "text": "",
+            "text_size": 130,
+            "text_align": "center",
+            "media_position": "top",
+            "button_label": "",
+            "button_link": "",
+            "open_new_window_button": false,
+            "show_button_style": "primary",
+            "color_overlay": "rgba(0,0,0,0)",
+            "title_color": "rgba(0,0,0,0)",
+            "text_color": "rgba(0,0,0,0)",
+            "color_heading_highlight_light": "rgba(0,0,0,0)",
+            "color_button": "rgba(0,0,0,0)",
+            "background_button": "rgba(0,0,0,0)",
+            "color_button_hover": "rgba(0,0,0,0)",
+            "background_button_hover": "rgba(0,0,0,0)",
+            "color_button_secondary": "rgba(0,0,0,0)",
+            "secondary_button_text": "rgba(0,0,0,0)",
+            "colors_text_link": "rgba(0,0,0,0)"
+          }
+        },
+        "media_QVpeAF": {
+          "type": "media",
+          "settings": {
+            "image": "",
+            "image_mobile": "",
+            "image_link": "",
+            "open_new_window": false,
+            "show_sound_control": false,
+            "video_url": "",
+            "enable_video_autoplay": true,
+            "video_alt_text": "",
+            "enable_content_overlay": true,
+            "content_position": "center",
+            "overlay_opacity": 0,
+            "number_of_columns": 1,
+            "number_of_row": 1,
+            "icon": "none",
+            "another_icon": "",
+            "custom_icon": "",
+            "icon_size": 45,
+            "sub_title": "",
+            "title": "",
+            "highlight_type": "underline",
+            "title_size": 80,
+            "text": "",
+            "text_size": 130,
+            "text_align": "center",
+            "media_position": "top",
+            "button_label": "",
+            "button_link": "",
+            "open_new_window_button": false,
+            "show_button_style": "primary",
+            "color_overlay": "rgba(0,0,0,0)",
+            "title_color": "rgba(0,0,0,0)",
+            "text_color": "rgba(0,0,0,0)",
+            "color_heading_highlight_light": "rgba(0,0,0,0)",
+            "color_button": "rgba(0,0,0,0)",
+            "background_button": "rgba(0,0,0,0)",
+            "color_button_hover": "rgba(0,0,0,0)",
+            "background_button_hover": "rgba(0,0,0,0)",
+            "color_button_secondary": "rgba(0,0,0,0)",
+            "secondary_button_text": "rgba(0,0,0,0)",
+            "colors_text_link": "rgba(0,0,0,0)"
+          }
+        },
+        "media_YAAXK8": {
+          "type": "media",
+          "settings": {
+            "image": "",
+            "image_mobile": "",
+            "image_link": "",
+            "open_new_window": false,
+            "show_sound_control": false,
+            "video_url": "",
+            "enable_video_autoplay": true,
+            "video_alt_text": "",
+            "enable_content_overlay": true,
+            "content_position": "center",
+            "overlay_opacity": 0,
+            "number_of_columns": 1,
+            "number_of_row": 1,
+            "icon": "none",
+            "another_icon": "",
+            "custom_icon": "",
+            "icon_size": 45,
+            "sub_title": "",
+            "title": "",
+            "highlight_type": "underline",
+            "title_size": 80,
+            "text": "",
+            "text_size": 130,
+            "text_align": "center",
+            "media_position": "top",
+            "button_label": "",
+            "button_link": "",
+            "open_new_window_button": false,
+            "show_button_style": "primary",
+            "color_overlay": "rgba(0,0,0,0)",
+            "title_color": "rgba(0,0,0,0)",
+            "text_color": "rgba(0,0,0,0)",
+            "color_heading_highlight_light": "rgba(0,0,0,0)",
+            "color_button": "rgba(0,0,0,0)",
+            "background_button": "rgba(0,0,0,0)",
+            "color_button_hover": "rgba(0,0,0,0)",
+            "background_button_hover": "rgba(0,0,0,0)",
+            "color_button_secondary": "rgba(0,0,0,0)",
+            "secondary_button_text": "rgba(0,0,0,0)",
+            "colors_text_link": "rgba(0,0,0,0)"
+          }
+        }
+      },
+      "block_order": [
+        "media_xRrDcP",
+        "media_tPqULW",
+        "media_cKrQF3",
+        "media_QVpeAF",
+        "media_YAAXK8"
+      ],
+      "settings": {
+        "heading": "",
+        "highlight_type": "underline",
+        "heading_size": 100,
+        "heading_tag": "h2",
+        "heading_alignment": "center",
+        "subheading": "",
+        "text": "",
+        "max_columns": 5,
+        "spacing": 28,
+        "height_desktop": 500,
+        "show_section_divider": false,
+        "full_width": false,
+        "padding_full_width": false,
+        "padding_top": 28,
+        "padding_bottom": 28,
+        "swiper_on_mobile": true,
+        "min_columns_mobile": "1",
+        "spacing_mobile": 10,
+        "height_mobile": 450,
+        "show_section_divider_mobile": false,
+        "full_width_mobile": false,
+        "padding_top_mobile": 28,
+        "padding_bottom_mobile": 28
+      }
+    }
+  },
+  "order": [
+    "main",
+    "comparison_table_DBr86U",
+    "promotion_banner_WNAftC",
+    "product-recommendations",
+    "text_column_with_image_Ai3QLn",
+    "faq_VKYm4r",
+    "media_gallery_WVEpQw"
+  ]
+}

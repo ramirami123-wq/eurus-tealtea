@@ -1,0 +1,176 @@
+{
+  "name": "t:sections.header.name",
+  "type": "header",
+  "sections": {
+    "announcement-bar": {
+      "type": "announcement-bar",
+      "blocks": {
+        "announcement-bar-0": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "another_icon": "",
+            "custom_icon": "",
+            "text": "Make an announcement",
+            "text_size": 90,
+            "link": "",
+            "open_new_window": false,
+            "button_label_or_code": "Shop Now",
+            "button_link": "",
+            "open_new_window_button": false,
+            "button_color": "#743718",
+            "button_text_color": "#ffffff",
+            "button_color_dark": "#743718",
+            "button_text_color_dark": "#ffffff",
+            "timezone": "-4",
+            "end_year": 2023,
+            "end_month": "9",
+            "end_day": "31",
+            "end_hour": "1",
+            "end_minute": "0"
+          }
+        },
+        "79abd403-3d9f-4b27-a4f6-8ad8219e384c": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "another_icon": "",
+            "custom_icon": "",
+            "text": "Make an announcement",
+            "text_size": 90,
+            "link": "",
+            "open_new_window": false,
+            "button_label_or_code": "",
+            "button_link": "",
+            "open_new_window_button": true,
+            "button_color": "#743718",
+            "button_text_color": "#ffffff",
+            "button_color_dark": "#743718",
+            "button_text_color_dark": "#ffffff",
+            "timezone": "-4",
+            "end_year": 2024,
+            "end_month": "4",
+            "end_day": "26",
+            "end_hour": "23",
+            "end_minute": "0"
+          }
+        },
+        "6be690ad-170e-4af3-9bbb-0a11620d222a": {
+          "type": "promo_code",
+          "settings": {
+            "icon": "none",
+            "another_icon": "",
+            "custom_icon": "",
+            "text": "Make an announcement",
+            "text_size": 90,
+            "link": "",
+            "open_new_window": false,
+            "button_label_or_code": "COUPON_CODE",
+            "coupon_color": "rgba(0,0,0,0)",
+            "coupon_color_dark": "rgba(0,0,0,0)",
+            "timezone": "-4",
+            "end_year": 2024,
+            "end_month": "1",
+            "end_day": "1",
+            "end_hour": "1",
+            "end_minute": "0"
+          }
+        }
+      },
+      "block_order": [
+        "announcement-bar-0",
+        "79abd403-3d9f-4b27-a4f6-8ad8219e384c",
+        "6be690ad-170e-4af3-9bbb-0a11620d222a"
+      ],
+      "settings": {
+        "enable": true,
+        "show_only_on_homepage": false,
+        "enable_sticky_bar": false,
+        "enable_carousel_on_desktop": true,
+        "backgound_color": "#ded5cd",
+        "text_color": "#2b2b2b",
+        "textlink_color_light": "rgba(0,0,0,0)",
+        "backgound_color_dark": "#f4f4f2",
+        "text_color_dark": "#2b2b2b",
+        "textlink_color_dark": "rgba(0,0,0,0)",
+        "menu": "",
+        "menu_position": "right",
+        "auto_switch_bar": true,
+        "change_bar_every": 5,
+        "show_navigation": false,
+        "show_social_icons": true,
+        "alignment": "right",
+        "show_language_selector": true,
+        "show_currency_selector": true,
+        "text_size_toolbar": 80
+      }
+    },
+    "header": {
+      "type": "header",
+      "settings": {
+        "menu": "main-menu",
+        "select_motion": "hover",
+        "full_width": true,
+        "logo_position": "left-center",
+        "sticky_header_type": "on-scroll-up",
+        "logo_width": 130,
+        "logo_width_mobile": 100,
+        "show_social_icons": false,
+        "enable_on_homepage": true,
+        "enable_on_collection_page": true,
+        "shadow": 36,
+        "text_color_light": "#ffffff",
+        "textlink_color_light": "rgba(0,0,0,0)",
+        "text_color_dark": "#ffffff",
+        "textlink_color_dark": "rgba(0,0,0,0)",
+        "shadow_color": "#000000",
+        "shadow_color_dark": "#000000",
+        "header_show_language_selector": false,
+        "header_show_currency_selector": false,
+        "show_section_divider": false,
+        "padding_top": 24,
+        "padding_bottom": 12,
+        "show_section_divider_mobile": false,
+        "padding_top_mobile": 16,
+        "padding_bottom_mobile": 16
+      }
+    },
+    "mobile-navigation": {
+      "type": "mobile-navigation",
+      "blocks": {
+        "mobile-navigation-2": {
+          "type": "account",
+          "settings": {
+          }
+        },
+        "mobile-navigation-3": {
+          "type": "social",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "mobile-navigation-2",
+        "mobile-navigation-3"
+      ],
+      "settings": {
+        "menu": "main-menu",
+        "show_language_selector": true,
+        "show_currency_selector": true,
+        "background_color": "#f9f4ef",
+        "text_color": "#211e1e",
+        "colors_text_link": "#545252",
+        "divider_color": "#ded5cd",
+        "background_color_dark": "#343131",
+        "text_color_dark": "#ffffff",
+        "colors_text_link_dark": "#cac7c7",
+        "divider_color_dark": "#5b5553"
+      }
+    }
+  },
+  "order": [
+    "announcement-bar",
+    "header",
+    "mobile-navigation"
+  ]
+}

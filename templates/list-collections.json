@@ -1,0 +1,33 @@
+{
+  "sections": {
+    "main-collection-list-banner": {
+      "type": "main-collection-list-banner",
+      "settings": {
+        "heading": "",
+        "size_title": 170,
+        "title_position": "text-left",
+        "image_overlay_opacity": 20,
+        "desktop_height": "450px",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "mobile_height": "300px",
+        "full_width_mobile": true,
+        "padding_top_mobile": 0,
+        "padding_bottom_mobile": 0
+      }
+    },
+    "main": {
+      "type": "main-list-collections",
+      "settings": {
+        "title": "Collections",
+        "sort": "alphabetical",
+        "image_ratio": "square"
+      }
+    }
+  },
+  "order": [
+    "main-collection-list-banner",
+    "main"
+  ]
+}
