@@ -148,6 +148,9 @@
         "button_m6Janm",
         "caption_L6a9dQ"
       ],
+      "custom_css": [
+        "img {padding-top:0; width: 5rem;}"
+      ],
       "settings": {
         "heading_light": "rgba(0,0,0,0)",
         "text_light": "rgba(0,0,0,0)",
