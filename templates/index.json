@@ -80,6 +80,94 @@
         "padding_bottom_mobile": 4
       }
     },
+    "rich_text_d8pU6C": {
+      "type": "rich-text",
+      "blocks": {
+        "media_zfXAgz": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/Emblem-final.png",
+            "show_sound_control": false,
+            "video_url": "",
+            "enable_video_autoplay": true,
+            "video_alt_text": "",
+            "media_size": 1
+          }
+        },
+        "heading_pfFjVy": {
+          "type": "heading",
+          "settings": {
+            "heading": "SIP INTO THETEAL EXPERIENCE",
+            "highlight_type": "underline",
+            "heading_size": 130,
+            "heading_tag": "h2"
+          }
+        },
+        "text_PiEtAT": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "number_of_lines_shown": "none",
+            "read_more_label": "Read more",
+            "see_less_label": "See less"
+          }
+        },
+        "button_m6Janm": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "open_new_window_button": false,
+            "show_button_style_1": "primary",
+            "button_label_2": "",
+            "open_new_window_button_2": false,
+            "button_link_2": "",
+            "show_button_style_2": "primary",
+            "color_button": "rgba(0,0,0,0)",
+            "color_button_hover": "rgba(0,0,0,0)",
+            "color_text_button": "rgba(0,0,0,0)",
+            "color_text_button_hover": "rgba(0,0,0,0)",
+            "color_button_secondary": "rgba(0,0,0,0)",
+            "secondary_button_text": "rgba(0,0,0,0)",
+            "colors_text_link": "rgba(0,0,0,0)"
+          }
+        },
+        "caption_L6a9dQ": {
+          "type": "caption",
+          "settings": {
+            "caption": "Add a tagline",
+            "text_style": "uppercase",
+            "text_size": 100
+          }
+        }
+      },
+      "block_order": [
+        "media_zfXAgz",
+        "heading_pfFjVy",
+        "text_PiEtAT",
+        "button_m6Janm",
+        "caption_L6a9dQ"
+      ],
+      "settings": {
+        "heading_light": "rgba(0,0,0,0)",
+        "text_light": "rgba(0,0,0,0)",
+        "color_heading_highlight_light": "rgba(0,0,0,0)",
+        "background_color_light": "rgba(0,0,0,0)",
+        "heading_dark": "rgba(0,0,0,0)",
+        "text_dark": "rgba(0,0,0,0)",
+        "color_heading_highlight_dark": "rgba(0,0,0,0)",
+        "background_color_dark": "rgba(0,0,0,0)",
+        "content_alignment": "center",
+        "show_section_divider": false,
+        "make_full_page_width": true,
+        "padding_top": 28,
+        "padding_bottom": 28,
+        "content_alignment_mobile": "center",
+        "show_section_divider_mobile": false,
+        "padding_top_mobile": 28,
+        "padding_bottom_mobile": 28
+      }
+    },
     "d557b959-57cb-476f-adb6-18808587f120": {
       "type": "scrolling-banner",
       "blocks": {
@@ -1297,6 +1385,7 @@
   },
   "order": [
     "fe5dccd3-17fd-4fd3-ada9-a0e11305981c",
+    "rich_text_d8pU6C",
     "d557b959-57cb-476f-adb6-18808587f120",
     "e32885d8-0a8f-4c4f-8801-377d01cb7656",
     "4352d226-8e70-4b9d-94d5-8f8b0e27084b",
