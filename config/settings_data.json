@@ -158,6 +158,7 @@
     "estimate_delivery_cutoff_hour": "15",
     "show_estimate_cart": true,
     "show_in_cart_items": "show_item",
+    "message_estimate_cart": "<p>Estimated delivery between <strong>earliest_delivery_date and latest_delivery_date.</strong> </p>",
     "enable_scroll_top_desktop": true,
     "currency_code_enable": false,
     "selected_preset": "breeze",
