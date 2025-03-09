@@ -340,6 +340,9 @@
         "template--21918975852859__331e6fca-2947-4a19-89c5-9396be0d666a-column-3",
         "template--21918975852859__331e6fca-2947-4a19-89c5-9396be0d666a-column-4"
       ],
+      "custom_css": [
+        "span{color:white;}"
+      ],
       "settings": {
         "title": "",
         "highlight_type": "underline",
@@ -354,11 +357,11 @@
         "swiper_on_mobile": true,
         "auto_play": true,
         "change_bar_every": 5,
-        "background_color_light": "#eae1d2",
-        "heading_light": "rgba(0,0,0,0)",
-        "text_light": "rgba(0,0,0,0)",
-        "color_heading_highlight_light": "rgba(0,0,0,0)",
-        "line_border_light": "#eae1d2",
+        "background_color_light": "#273a89",
+        "heading_light": "#ffffff",
+        "text_light": "#ffffff",
+        "color_heading_highlight_light": "#ffffff",
+        "line_border_light": "#ffffff",
         "color_icon_light": "rgba(0,0,0,0)",
         "background_color_dark": "#2a2a2a",
         "heading_dark": "rgba(0,0,0,0)",
