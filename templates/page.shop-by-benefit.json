@@ -12,12 +12,155 @@
     "main": {
       "type": "main-page",
       "settings": {
+        "show_heading": true,
+        "heading_size": 170,
+        "heading_tag": "h1",
+        "show_breadcrumbs": true,
+        "show_breadcrumbs_border": false,
+        "full_width_breadcrumb": true,
+        "desktop_content_alignment": "text-left",
+        "mobile_content_alignment": "text-left",
+        "background_color_light": "#f2f2f2",
+        "text_color_light": "rgba(0,0,0,0)",
+        "textlink_color_light": "rgba(0,0,0,0)",
+        "background_color_dark": "#313131",
+        "text_color_dark": "rgba(0,0,0,0)",
+        "textlink_color_dark": "rgba(0,0,0,0)",
         "padding_top": 28,
-        "padding_bottom": 28
+        "padding_bottom": 28,
+        "padding_top_mobile": 20,
+        "padding_bottom_mobile": 20
+      }
+    },
+    "collection_list_p7PGVB": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_ncP9B7": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "detox"
+          }
+        },
+        "featured_collection_tdEKy7": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "slimming"
+          }
+        },
+        "featured_collection_Di9Vk8": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "digestive"
+          }
+        },
+        "featured_collection_DjRtKh": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "beautea"
+          }
+        },
+        "featured_collection_zUzcmC": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "energy"
+          }
+        },
+        "featured_collection_d4wmaB": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "focus"
+          }
+        },
+        "featured_collection_qzzCLm": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "immunity"
+          }
+        },
+        "featured_collection_McnPGW": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "cholesterol"
+          }
+        },
+        "featured_collection_cnDK3G": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "joint-health"
+          }
+        },
+        "featured_collection_eHJDme": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "anti-diabetes"
+          }
+        },
+        "featured_collection_CNjaa6": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "caffeine-free"
+          }
+        },
+        "featured_collection_DYqQxT": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "calming"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_ncP9B7",
+        "featured_collection_tdEKy7",
+        "featured_collection_Di9Vk8",
+        "featured_collection_DjRtKh",
+        "featured_collection_zUzcmC",
+        "featured_collection_d4wmaB",
+        "featured_collection_qzzCLm",
+        "featured_collection_McnPGW",
+        "featured_collection_cnDK3G",
+        "featured_collection_eHJDme",
+        "featured_collection_CNjaa6",
+        "featured_collection_DYqQxT"
+      ],
+      "settings": {
+        "heading": "",
+        "highlight_type": "underline",
+        "heading_size": 100,
+        "heading_tag": "h2",
+        "heading_alignment": "center",
+        "show_view_all": false,
+        "background_color_light": "",
+        "background_color_dark": "",
+        "collection_metafield": "",
+        "image_ratio": "auto",
+        "title_size": 80,
+        "show_text_overlay": false,
+        "content_alignment": "center",
+        "content_position": "bottom",
+        "image_overlay_opacity": 5,
+        "title_color": "rgba(0,0,0,0)",
+        "text_light": "rgba(0,0,0,0)",
+        "title_color_dark": "rgba(0,0,0,0)",
+        "text_dark": "rgba(0,0,0,0)",
+        "show_item_count": true,
+        "columns_desktop": 6,
+        "columns_mobile": "2",
+        "enable_desktop_slider": false,
+        "swiper_on_mobile": true,
+        "spacing": 20,
+        "show_section_divider": false,
+        "full_width": false,
+        "padding_top": 28,
+        "padding_bottom": 28,
+        "spacing_mobile": 20,
+        "show_section_divider_mobile": false,
+        "padding_top_mobile": 28,
+        "padding_bottom_mobile": 28
       }
     }
   },
   "order": [
-    "main"
+    "main",
+    "collection_list_p7PGVB"
   ]
 }
