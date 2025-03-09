@@ -125,83 +125,45 @@
     "footer": {
       "type": "footer",
       "blocks": {
-        "footer-2": {
+        "footer-0": {
+          "type": "link_list",
+          "settings": {
+            "open_by_default": true,
+            "heading_menu": "Menu",
+            "menu": "main-menu",
+            "show_social_icons": false
+          }
+        },
+        "image_WErrkn": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/cash-on-delivery.png",
+            "image_width": 100,
+            "link_image_footer": "",
+            "open_new_window": false,
+            "rounded_corner_image": false,
+            "alignment": "center",
+            "text": "",
+            "spacing": 28
+          }
+        },
+        "text_T7dAcY": {
           "type": "text",
           "settings": {
             "open_by_default": false,
-            "heading_text": "About",
-            "subtext": "<p>Share store details, promotions, or brand content with your customers.</p>",
+            "heading_text": "",
+            "subtext": "<p>📍 <strong>Byblos Main Boutique</strong><br/><br/>📍 <strong>ABC Mall Verdun – Pop-Up Store</strong><br/><br/>📍 <strong>ABC Achrafieh – Inside Mall Square, Level Zero</strong></p>",
             "show_social_icons": false,
             "image_width": 100,
             "link_image_footer": "",
             "open_new_window": false
           }
-        },
-        "footer-0": {
-          "type": "link_list",
-          "settings": {
-            "open_by_default": true,
-            "heading_menu": "Popular Shop",
-            "menu": "main-menu",
-            "show_social_icons": false
-          }
-        },
-        "footer-1": {
-          "type": "link_list",
-          "settings": {
-            "open_by_default": false,
-            "heading_menu": "Explore",
-            "menu": "main-menu",
-            "show_social_icons": false
-          }
-        },
-        "link_list_i9gHXh": {
-          "type": "link_list",
-          "settings": {
-            "open_by_default": false,
-            "heading_menu": "Information",
-            "menu": "main-menu",
-            "show_social_icons": false
-          }
-        },
-        "contact_LbERbb": {
-          "type": "contact",
-          "settings": {
-            "open_by_default": false,
-            "heading_menu": "Need help",
-            "icon_1": "question-mark",
-            "another_icon_1": "",
-            "custom_icon": "",
-            "title_1": "Got questions? Call us 24/7",
-            "text_1": "1908474783",
-            "text_link_1": "",
-            "open_new_window_1": false,
-            "enable_text_link_1": true,
-            "icon_2": "message-text",
-            "another_icon_2": "",
-            "custom_icon_2": "",
-            "title_2": "Need help with your order?",
-            "text_2": "Contact",
-            "text_link_2": "",
-            "open_new_window_2": false,
-            "enable_text_link_2": true,
-            "icon_3": "chat-bubble",
-            "another_icon_3": "",
-            "custom_icon_3": "",
-            "title_3": "Available 24/7 via chat",
-            "text_3": "Chat With US",
-            "text_link_3": "",
-            "open_new_window_3": false,
-            "enable_text_link_3": true
-          }
         }
       },
       "block_order": [
-        "footer-2",
         "footer-0",
-        "footer-1",
-        "link_list_i9gHXh",
-        "contact_LbERbb"
+        "image_WErrkn",
+        "text_T7dAcY"
       ],
       "settings": {
         "columns_desktop": 5,
