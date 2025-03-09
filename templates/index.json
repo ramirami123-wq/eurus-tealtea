@@ -168,7 +168,7 @@
         "template--21829637407021__d557b959-57cb-476f-adb6-18808587f120-text-1": {
           "type": "text",
           "settings": {
-            "text": "MAKE AN ANNOUNCEMENT",
+            "text": "DELIVERY ALL OVER LEBANON",
             "highlight_type": "underline",
             "text_size": 120,
             "text_color": "primary",
@@ -184,10 +184,10 @@
       ],
       "settings": {
         "show_border": false,
-        "speed": 10,
+        "speed": 14,
         "direction": "right",
         "pause_hover": false,
-        "bg_light": "#6b7050",
+        "bg_light": "#273a89",
         "color_text_light": "#ffffff",
         "color_text_light_2": "rgba(0,0,0,0)",
         "color_heading_highlight_light": "rgba(0,0,0,0)",
@@ -196,8 +196,8 @@
         "color_text_dark_2": "rgba(0,0,0,0)",
         "color_heading_highlight_dark": "rgba(0,0,0,0)",
         "space_block": 60,
-        "padding_top": 28,
-        "padding_bottom": 28,
+        "padding_top": 24,
+        "padding_bottom": 24,
         "space_block_mobile": 40,
         "padding_top_mobile": 20,
         "padding_bottom_mobile": 20
