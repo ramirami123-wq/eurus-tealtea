@@ -106,7 +106,7 @@
         "text_PiEtAT": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "text": "<p>Renowned for creating premium certified organic and aromatic blends since 1878 in Germany; Teal Tea sources a wide range of premium tea leaves from all over the world to deliver them to today’s health-conscious consumers.</p>",
             "number_of_lines_shown": "none",
             "read_more_label": "Read more",
             "see_less_label": "See less"
@@ -115,8 +115,8 @@
         "button_m6Janm": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": "",
+            "button_label": "know more about us",
+            "button_link": "shopify://pages/contact",
             "open_new_window_button": false,
             "show_button_style_1": "primary",
             "button_label_2": "",
@@ -139,7 +139,9 @@
         "text_PiEtAT",
         "button_m6Janm"
       ],
-      "custom_css": [],
+      "custom_css": [
+        "img {width: 6rem;}"
+      ],
       "settings": {
         "heading_light": "rgba(0,0,0,0)",
         "text_light": "rgba(0,0,0,0)",
