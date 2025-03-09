@@ -246,7 +246,6 @@
     },
     "product-recommendations": {
       "type": "product-recommendations",
-      "disabled": true,
       "settings": {
         "heading": "You May Also Like...",
         "highlight_type": "underline",
@@ -259,7 +258,7 @@
         "show_vendor": false,
         "show_rating": true,
         "show_quickview": true,
-        "enable_carousel_desktop": false,
+        "enable_carousel_desktop": true,
         "enable_swiper_mobile": true,
         "columns_desktop": 5,
         "full_width": true,
