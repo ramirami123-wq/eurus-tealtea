@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "name": "t:sections.footer.name",
   "type": "footer",
@@ -17,7 +26,7 @@
         "paragraph_pYKcP4": {
           "type": "paragraph",
           "settings": {
-            "text": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
+            "text": "<p>Be the first to know about new collections and exclusive offers.</p>"
           }
         },
         "email_form_CAEgrz": {
@@ -121,7 +130,7 @@
           "settings": {
             "open_by_default": false,
             "heading_text": "About",
-            "subtext": "<p>Share store details, promotions, or brand content with your customers.<\/p>",
+            "subtext": "<p>Share store details, promotions, or brand content with your customers.</p>",
             "show_social_icons": false,
             "image_width": 100,
             "link_image_footer": "",
@@ -163,7 +172,7 @@
             "icon_1": "question-mark",
             "another_icon_1": "",
             "custom_icon": "",
-            "title_1": "Got questions? Call us 24\/7",
+            "title_1": "Got questions? Call us 24/7",
             "text_1": "1908474783",
             "text_link_1": "",
             "open_new_window_1": false,
@@ -179,7 +188,7 @@
             "icon_3": "chat-bubble",
             "another_icon_3": "",
             "custom_icon_3": "",
-            "title_3": "Available 24\/7 via chat",
+            "title_3": "Available 24/7 via chat",
             "text_3": "Chat With US",
             "text_link_3": "",
             "open_new_window_3": false,

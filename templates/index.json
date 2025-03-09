@@ -605,6 +605,75 @@
         "top_padding_mobile": 20,
         "bottom_padding_mobile": 20
       }
+    },
+    "promotion_banner_FMgBxx": {
+      "type": "promotion-banner",
+      "blocks": {
+        "image_banner_8paKKK": {
+          "type": "image_banner",
+          "settings": {
+            "heading": "Where Flavor Meets Wellness",
+            "highlight_type": "underline",
+            "heading_size": 170,
+            "heading_tag": "h1",
+            "subheading": "",
+            "text": "",
+            "text_size": 130,
+            "content_box_type": "square",
+            "add_frame": false,
+            "color_content_box_light": "rgba(0,0,0,0)",
+            "color_content_box_dark": "rgba(0,0,0,0)"
+          }
+        },
+        "buttons_QnF3ET": {
+          "type": "buttons",
+          "settings": {
+            "button_label": "SHOP ALL",
+            "button_link": "shopify://collections/all",
+            "open_new_window_button": false,
+            "show_button_style_1": "primary",
+            "button_label_2": "",
+            "button_link_2": "",
+            "open_new_window_button_2": false,
+            "show_button_style_2": "primary",
+            "color_button": "rgba(0,0,0,0)",
+            "color_button_hover": "rgba(0,0,0,0)",
+            "color_text_button": "rgba(0,0,0,0)",
+            "color_text_button_hover": "rgba(0,0,0,0)",
+            "color_button_secondary": "rgba(0,0,0,0)",
+            "secondary_button_text": "rgba(0,0,0,0)",
+            "colors_text_link": "rgba(0,0,0,0)"
+          }
+        }
+      },
+      "block_order": [
+        "image_banner_8paKKK",
+        "buttons_QnF3ET"
+      ],
+      "settings": {
+        "heading": "Promotion Banner",
+        "image": "shopify://shop_images/4-2-1536x874.png",
+        "image_link": "shopify://collections/all",
+        "open_new_window": false,
+        "image_overlay_opacity": 30,
+        "content_position": "center",
+        "content_horizontal": 50,
+        "content_vertical": 50,
+        "position_content_mobile": "center",
+        "content_alignment": "center",
+        "show_hero": false,
+        "full_width": true,
+        "padding_full_width": false,
+        "rounded_corner_image": false,
+        "desktop_height": "750px",
+        "padding_top": 0,
+        "padding_bottom": 28,
+        "full_width_mobile": true,
+        "rounded_corner_image_mobile": false,
+        "mobile_height": "400px",
+        "padding_top_mobile": 0,
+        "padding_bottom_mobile": 20
+      }
     }
   },
   "order": [
@@ -614,6 +683,7 @@
     "collection_list_BYCPxR",
     "collection_list_fLkjja",
     "featured_collection_gnEx44",
+    "promotion_banner_FMgBxx",
     "5e1e5bf5-c81b-45dd-ab36-0e564f692a95",
     "54f7b6ce-e4ba-42b3-9550-cde9eb5ab2b4"
   ]
