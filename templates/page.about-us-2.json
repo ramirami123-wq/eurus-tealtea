@@ -61,7 +61,7 @@
             "video_url": "",
             "enable_video_autoplay": true,
             "video_alt_text": "",
-            "media_size": 50
+            "media_size": 80
           }
         }
       },
@@ -89,10 +89,47 @@
         "padding_top_mobile": 28,
         "padding_bottom_mobile": 28
       }
+    },
+    "rich_text_prWGFT": {
+      "type": "rich-text",
+      "blocks": {
+        "text_4QmFVH": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Renowned for creating premium certified organic and aromatic blends since 1878 in Germany; TEA’L TEA sources a wide range of premium tea leaves from all over the world to deliver them to today’s health-conscious consumers.TEA’L Middle East started its operation in 2015 in Lebanon and United Arab Emirates.The first flagship store was inaugurated in the ancient city of Byblos, Lebanon. Then, it expanded to pop-up stores in major shopping malls in town. To date, more than 12,000 health-conscious consumers have adopted TEA’L TEA and incorporated it into their daily diet.</p>",
+            "number_of_lines_shown": "none",
+            "read_more_label": "Read more",
+            "see_less_label": "See less"
+          }
+        }
+      },
+      "block_order": [
+        "text_4QmFVH"
+      ],
+      "settings": {
+        "heading_light": "rgba(0,0,0,0)",
+        "text_light": "rgba(0,0,0,0)",
+        "color_heading_highlight_light": "rgba(0,0,0,0)",
+        "background_color_light": "rgba(0,0,0,0)",
+        "heading_dark": "rgba(0,0,0,0)",
+        "text_dark": "rgba(0,0,0,0)",
+        "color_heading_highlight_dark": "rgba(0,0,0,0)",
+        "background_color_dark": "rgba(0,0,0,0)",
+        "content_alignment": "center",
+        "show_section_divider": false,
+        "make_full_page_width": true,
+        "padding_top": 28,
+        "padding_bottom": 28,
+        "content_alignment_mobile": "center",
+        "show_section_divider_mobile": false,
+        "padding_top_mobile": 28,
+        "padding_bottom_mobile": 28
+      }
     }
   },
   "order": [
     "main",
-    "rich_text_kfxFFK"
+    "rich_text_kfxFFK",
+    "rich_text_prWGFT"
   ]
 }
