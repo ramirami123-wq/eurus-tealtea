@@ -130,7 +130,7 @@
           "settings": {
             "open_by_default": true,
             "heading_menu": "Menu",
-            "menu": "main-menu",
+            "menu": "footer",
             "show_social_icons": false
           }
         },
