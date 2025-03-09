@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin language editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "general": {
     "global": {
@@ -28,7 +37,7 @@
       "login_form_password_placeholder": "Your password",
       "login_form_error": "Wrong password!",
       "login_form_submit": "Enter",
-      "admin_link_html": "Are you the store owner? <a href=\"\/admin\" class=\"nav-link relative effect-inline\">Log in here<\/a>",
+      "admin_link_html": "Are you the store owner? <a href=\"/admin\" class=\"nav-link relative effect-inline\">Log in here</a>",
       "powered_by_shopify_html": "This shop will be powered by {{ shopify }}"
     },
     "social": {
@@ -68,7 +77,7 @@
       "view": "View my cart ({{ count }})",
       "item_added": "Item added to your cart",
       "terms_confirm": "Please agree to terms and conditions.",
-      "enable_amount_freeship_html": "Add <span class=\"text-medium font-medium\">{{ amount_to_freeshipping }}<\/span> more to get <span class=\"font-medium\">FREE<\/span> shipping",
+      "enable_amount_freeship_html": "Add <span class=\"text-medium font-medium\">{{ amount_to_freeshipping }}</span> more to get <span class=\"font-medium\">FREE</span> shipping",
       "freeshipping": "Congratulations! You are eligible for free shipping!",
       "apply": "Apply",
       "copy_link": "Copy link",
@@ -171,15 +180,15 @@
         "input_label": "Quantity for {{ product }}",
         "increase": "Increase quantity for {{ product }}",
         "decrease": "Decrease quantity for {{ product }}",
-        "in_cart_html": "<span class=\"quantity-cart\">{{ quantity }}<\/span> in cart"
+        "in_cart_html": "<span class=\"quantity-cart\">{{ quantity }}</span> in cart"
       },
       "pickup_availability": {
         "view_store_info": "View store information",
         "check_other_stores": "Check availability at other stores",
         "pick_up_available": "Pickup available",
         "pick_up_unavailable": "Pickup unavailable",
-        "pick_up_available_at_html": "Pickup available at <span class=\"color-foreground\">{{ location_name }}<\/span>",
-        "pick_up_unavailable_at_html": "Pickup currently unavailable at <span class=\"color-foreground\">{{ location_name }}<\/span>",
+        "pick_up_available_at_html": "Pickup available at <span class=\"color-foreground\">{{ location_name }}</span>",
+        "pick_up_unavailable_at_html": "Pickup currently unavailable at <span class=\"color-foreground\">{{ location_name }}</span>",
         "unavailable": "Couldn't load pickup availability",
         "refresh": "Refresh"
       },
@@ -209,7 +218,7 @@
       "not_include_taxes": "Tax not included.",
       "shipping": "Shipping",
       "calculated": "calculated at checkout.",
-      "shipping_policy_html": "<a href=\"{{ link }}\" class='nav-link hover-text-link relative effect-inline mr-1'>Shipping<\/a> calculated at checkout.",
+      "shipping_policy_html": "<a href=\"{{ link }}\" class='nav-link hover-text-link relative effect-inline mr-1'>Shipping</a> calculated at checkout.",
       "clear": "Clear history",
       "gift_wrapping_label": "Gift wrap this product",
       "back_in_stock_alert": "Please notify me when this product is back in stock.",
@@ -304,12 +313,12 @@
       "view_cart": "View Cart",
       "cart_error": "There was an error while updating your cart. Please try again.",
       "cart_quantity_error_html": "You can only add {{ quantity }} of this item to your cart.",
-      "taxes_and_shipping_policy_at_checkout_html": "Taxes and <a target='_blank' href='{{ link }}' class='nav-link hover-text-link relative effect-inline'>shipping<\/a> calculated at checkout",
+      "taxes_and_shipping_policy_at_checkout_html": "Delivery All Over Lebanon",
       "taxes_included_but_shipping_at_checkout": "Tax included and shipping calculated at checkout",
-      "taxes_included_and_shipping_policy_html": "Tax included. <a target='_blank' href='{{ link }}' class='nav-link hover-text-link relative effect-inline'>Shipping<\/a> calculated at checkout.",
-      "taxes_and_shipping_at_checkout": "Taxes and shipping calculated at checkout",
+      "taxes_included_and_shipping_policy_html": "Tax included. <a target='_blank' href='{{ link }}' class='nav-link hover-text-link relative effect-inline'>Shipping</a> calculated at checkout.",
+      "taxes_and_shipping_at_checkout": "Delivery All Over Lebanon",
       "cart_enable_terms_and_conditions": "I agree with the terms and conditions",
-      "cart_enable_terms_and_conditions_html": "I agree with the <a href='{{ url }}' class='button-link relative text-[rgba(var(--colors-text-link))]' target='_blank'>terms and conditions<\/a>",
+      "cart_enable_terms_and_conditions_html": "I agree with the <a href='{{ url }}' class='button-link relative text-[rgba(var(--colors-text-link))]' target='_blank'>terms and conditions</a>",
       "headings": {
         "product": "Product",
         "price": "Price",
@@ -319,7 +328,7 @@
       },
       "login": {
         "title": "Have an account?",
-        "paragraph_html": "<a href=\"{{ link }}\" class=\"nav-link relative effect-inline\">Log in<\/a> to check out faster."
+        "paragraph_html": "<a href=\"{{ link }}\" class=\"nav-link relative effect-inline\">Log in</a> to check out faster."
       },
       "required_cart_note": "Enter"
     },
@@ -350,7 +359,7 @@
       "empty": "No products found",
       "title": "Collection",
       "no_product_collection": "Sorry, there are no products in this collection",
-      "use_fewer_filters_html": "Use fewer filters or <a class=\"{{ class }}\" href=\"{{ link }}\" data-no-instant>remove all<\/a>"
+      "use_fewer_filters_html": "Use fewer filters or <a class=\"{{ class }}\" href=\"{{ link }}\" data-no-instant>remove all</a>"
     },
     "video": {
       "load_video": "Load video"
@@ -416,10 +425,10 @@
     }
   },
   "localization": {
-    "country_label": "Country\/region",
+    "country_label": "Country/region",
     "language_label": "Language",
     "update_language": "Update language",
-    "update_country": "Update country\/region"
+    "update_country": "Update country/region"
   },
   "customer": {
     "account": {
@@ -448,9 +457,9 @@
       "address1": "Address 1",
       "address2": "Address 2",
       "city": "City",
-      "country": "Country\/region",
+      "country": "Country/region",
       "province": "Province",
-      "zip": "Postal\/ZIP code",
+      "zip": "Postal/ZIP code",
       "phone": "Phone",
       "set_default": "Set as default address",
       "add": "Add address",
@@ -590,9 +599,9 @@
     "noRates": "We do not ship to this destination.",
     "country": "Country",
     "province": "Province",
-    "zip": "Zip\/Postal Code",
+    "zip": "Zip/Postal Code",
     "autoCalculate": "Shipping rates for your destination:",
-    "emptyAutoCal":"Please use Estimate shipping for more details."
+    "emptyAutoCal": "Please use Estimate shipping for more details."
   },
   "product_comparison": {
     "remove": "Remove",
@@ -604,6 +613,6 @@
     "product_description": "Product description"
   },
   "multiple_stores": {
-    "button_view":"View details"
+    "button_view": "View details"
   }
 }
