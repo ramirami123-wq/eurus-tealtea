@@ -416,54 +416,30 @@
     "5e1e5bf5-c81b-45dd-ab36-0e564f692a95": {
       "type": "shop-the-look",
       "blocks": {
-        "template--21828924539181__5e1e5bf5-c81b-45dd-ab36-0e564f692a95-look-1": {
-          "type": "look",
-          "settings": {
-            "product": "",
-            "color_hotspot": "#000000",
-            "hotspot_desktop_horizontal": 30,
-            "hotspot_desktop_vertical": 50,
-            "hotspot_mobile_horizontal": 27,
-            "hotspot_mobile_vertical": 47
-          }
-        },
-        "template--21828924539181__5e1e5bf5-c81b-45dd-ab36-0e564f692a95-look-2": {
-          "type": "look",
-          "settings": {
-            "product": "",
-            "color_hotspot": "#000000",
-            "hotspot_desktop_horizontal": 53,
-            "hotspot_desktop_vertical": 27,
-            "hotspot_mobile_horizontal": 54,
-            "hotspot_mobile_vertical": 25
-          }
-        },
         "template--21828924539181__5e1e5bf5-c81b-45dd-ab36-0e564f692a95-look-3": {
           "type": "look",
           "settings": {
-            "product": "",
-            "color_hotspot": "#000000",
-            "hotspot_desktop_horizontal": 64,
+            "product": "black-cast-iron-teapot",
+            "color_hotspot": "#ffffff",
+            "hotspot_desktop_horizontal": 38,
             "hotspot_desktop_vertical": 50,
-            "hotspot_mobile_horizontal": 65,
+            "hotspot_mobile_horizontal": 32,
             "hotspot_mobile_vertical": 50
           }
         },
         "look_zbq9eb": {
           "type": "look",
           "settings": {
-            "product": "",
-            "color_hotspot": "#000000",
-            "hotspot_desktop_horizontal": 20,
-            "hotspot_desktop_vertical": 20,
-            "hotspot_mobile_horizontal": 20,
-            "hotspot_mobile_vertical": 20
+            "product": "japanese-tea-cups",
+            "color_hotspot": "#ffffff",
+            "hotspot_desktop_horizontal": 28,
+            "hotspot_desktop_vertical": 77,
+            "hotspot_mobile_horizontal": 24,
+            "hotspot_mobile_vertical": 85
           }
         }
       },
       "block_order": [
-        "template--21828924539181__5e1e5bf5-c81b-45dd-ab36-0e564f692a95-look-1",
-        "template--21828924539181__5e1e5bf5-c81b-45dd-ab36-0e564f692a95-look-2",
         "template--21828924539181__5e1e5bf5-c81b-45dd-ab36-0e564f692a95-look-3",
         "look_zbq9eb"
       ],
@@ -473,6 +449,7 @@
         "heading_size": 100,
         "heading_tag": "h2",
         "heading_alignment": "center",
+        "image_desktop": "shopify://shop_images/BG1A5497.png",
         "image_ratio": "square",
         "info_alignment": "center",
         "desktop_size": "small",
