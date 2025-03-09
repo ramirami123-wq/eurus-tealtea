@@ -280,57 +280,57 @@
         "template--21918975852859__331e6fca-2947-4a19-89c5-9396be0d666a-column-1": {
           "type": "column",
           "settings": {
-            "icon": "flower",
+            "icon": "star",
             "another_icon": "",
             "custom_icon": "",
-            "title": "COLUMN",
+            "title": "Premium Quality",
             "highlight_type": "underline",
             "title_link": "",
             "open_new_window": false,
             "heading_size": 100,
-            "text": "<p>Pair text with an image to focus on a product, collection or blog post. Add details on availability, style, or even provide a review.</p>"
+            "text": "<p>100% natural ingredients, free from artificial flavors or additives.<br/></p>"
           }
         },
         "template--21918975852859__331e6fca-2947-4a19-89c5-9396be0d666a-column-2": {
           "type": "column",
           "settings": {
-            "icon": "planet",
+            "icon": "leaf",
             "another_icon": "",
             "custom_icon": "",
-            "title": "COLUMN",
+            "title": "Freshness & Purity",
             "highlight_type": "underline",
             "title_link": "",
             "open_new_window": false,
             "heading_size": 100,
-            "text": "<p>Pair text with an image to focus on a product, collection or blog post. Add details on availability, style, or even provide a review.</p>"
+            "text": "<p>Each batch is carefully packed to preserve freshness.<br/></p>"
           }
         },
         "template--21918975852859__331e6fca-2947-4a19-89c5-9396be0d666a-column-3": {
           "type": "column",
           "settings": {
-            "icon": "star",
+            "icon": "truck",
             "another_icon": "",
             "custom_icon": "",
-            "title": "COLUMN",
+            "title": "Fast & Secure Shipping",
             "highlight_type": "underline",
             "title_link": "",
             "open_new_window": false,
             "heading_size": 100,
-            "text": "<p>Pair text with an image to focus on a product, collection or blog post. Add details on availability, style, or even provide a review.</p>"
+            "text": "<p>Orders processed within 24-48 hours.</p>"
           }
         },
         "template--21918975852859__331e6fca-2947-4a19-89c5-9396be0d666a-column-4": {
           "type": "column",
           "settings": {
-            "icon": "cloud-rain",
+            "icon": "chat-bubble",
             "another_icon": "",
             "custom_icon": "",
-            "title": "COLUMN",
+            "title": "24/7 Customer Support",
             "highlight_type": "underline",
             "title_link": "",
             "open_new_window": false,
             "heading_size": 100,
-            "text": "<p>Pair text with an image to focus on a product, collection or blog post. Add details on availability, style, or even provide a review.</p>"
+            "text": "<p>Whether it’s a question about your order, shipping, or returns, we’re here to help.</p>"
           }
         }
       },
@@ -341,7 +341,7 @@
         "template--21918975852859__331e6fca-2947-4a19-89c5-9396be0d666a-column-4"
       ],
       "custom_css": [
-        "span{color:white;}"
+        "span {color: white;}"
       ],
       "settings": {
         "title": "",
