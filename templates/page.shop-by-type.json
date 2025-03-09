@@ -12,12 +12,113 @@
     "main": {
       "type": "main-page",
       "settings": {
+        "show_heading": true,
+        "heading_size": 170,
+        "heading_tag": "h1",
+        "show_breadcrumbs": true,
+        "show_breadcrumbs_border": false,
+        "full_width_breadcrumb": true,
+        "desktop_content_alignment": "text-left",
+        "mobile_content_alignment": "text-left",
+        "background_color_light": "#f2f2f2",
+        "text_color_light": "rgba(0,0,0,0)",
+        "textlink_color_light": "rgba(0,0,0,0)",
+        "background_color_dark": "#313131",
+        "text_color_dark": "rgba(0,0,0,0)",
+        "textlink_color_dark": "rgba(0,0,0,0)",
         "padding_top": 28,
-        "padding_bottom": 28
+        "padding_bottom": 28,
+        "padding_top_mobile": 20,
+        "padding_bottom_mobile": 20
+      }
+    },
+    "collection_list_PxHNMU": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_wK6ncV": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "black-tea"
+          }
+        },
+        "featured_collection_FNhgKn": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "rooibos"
+          }
+        },
+        "featured_collection_q4rUM6": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "fruit-blends"
+          }
+        },
+        "featured_collection_kYyJiG": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "green-tea"
+          }
+        },
+        "featured_collection_a8XCA6": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "herbal"
+          }
+        },
+        "featured_collection_4jdbRm": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "white-tea"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_wK6ncV",
+        "featured_collection_FNhgKn",
+        "featured_collection_q4rUM6",
+        "featured_collection_kYyJiG",
+        "featured_collection_a8XCA6",
+        "featured_collection_4jdbRm"
+      ],
+      "settings": {
+        "heading": "",
+        "highlight_type": "underline",
+        "heading_size": 100,
+        "heading_tag": "h2",
+        "heading_alignment": "center",
+        "show_view_all": false,
+        "background_color_light": "",
+        "background_color_dark": "",
+        "collection_metafield": "",
+        "image_ratio": "auto",
+        "title_size": 80,
+        "show_text_overlay": false,
+        "content_alignment": "center",
+        "content_position": "bottom",
+        "image_overlay_opacity": 5,
+        "title_color": "rgba(0,0,0,0)",
+        "text_light": "rgba(0,0,0,0)",
+        "title_color_dark": "rgba(0,0,0,0)",
+        "text_dark": "rgba(0,0,0,0)",
+        "show_item_count": true,
+        "columns_desktop": 6,
+        "columns_mobile": "2",
+        "enable_desktop_slider": true,
+        "swiper_on_mobile": true,
+        "spacing": 20,
+        "show_section_divider": false,
+        "full_width": false,
+        "padding_top": 28,
+        "padding_bottom": 28,
+        "spacing_mobile": 20,
+        "show_section_divider_mobile": false,
+        "padding_top_mobile": 28,
+        "padding_bottom_mobile": 28
       }
     }
   },
   "order": [
-    "main"
+    "main",
+    "collection_list_PxHNMU"
   ]
 }
