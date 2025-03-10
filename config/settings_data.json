@@ -140,6 +140,7 @@
     "colors_speech": "#d68641",
     "colors_dark_speech": "#d68641",
     "advanced_show_breadcrumbs": true,
+    "favicon": "shopify://shop_images/fav-50x50.png",
     "cart_page_layout": "side",
     "cart_type": "drawer",
     "cart_icon": "icon-hand-bag",
