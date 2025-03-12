@@ -625,6 +625,96 @@
         "padding_bottom_mobile": 20
       }
     },
+    "insta_j4pcLB": {
+      "type": "insta",
+      "blocks": {
+        "image_XQdYbW": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/WhatsApp_Image_2025-03-12_at_4.16.05_PM.jpg",
+            "url": "https://instagram.com/teal.tea"
+          }
+        },
+        "image_NMaJrC": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/WhatsApp_Image_2025-03-12_at_4.16.05_PM_1.jpg",
+            "url": "https://instagram.com/teal.tea"
+          }
+        },
+        "image_hM6jrw": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/WhatsApp_Image_2025-03-12_at_4.16.06_PM.jpg",
+            "url": "https://instagram.com/teal.tea"
+          }
+        },
+        "image_MetHC7": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/WhatsApp_Image_2025-03-12_at_4.16.06_PM_1.jpg",
+            "url": "https://instagram.com/teal.tea"
+          }
+        },
+        "image_x4cTWe": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/WhatsApp_Image_2025-03-12_at_4.16.06_PM_2.jpg",
+            "url": "https://instagram.com/teal.tea"
+          }
+        }
+      },
+      "block_order": [
+        "image_XQdYbW",
+        "image_NMaJrC",
+        "image_hM6jrw",
+        "image_MetHC7",
+        "image_x4cTWe"
+      ],
+      "settings": {
+        "scrolling_velocity": 70,
+        "scrolling_velocity_mobile": 70,
+        "scrolling_velocity_image": 70,
+        "scrolling_velocity_image_mobile": 70,
+        "scrolling_gap": 100,
+        "scrolling_gap_mobile": 70,
+        "scrolling_gap_image": 150,
+        "scrolling_gap_image_mobile": 150,
+        "reverse_direction": false,
+        "pause_hover": false,
+        "text": "@TEAL.TEA",
+        "text_custom": false,
+        "text_font": "josefin_sans_n4",
+        "text_size": 40,
+        "text_size_mobile": 40,
+        "text_height": 150,
+        "image_width": 235,
+        "image_width_mobile": 175,
+        "image_radius": 0,
+        "image_border_thickness": 0,
+        "image_ratio": "square",
+        "image_ratio_mobile": "square",
+        "text_color": "#0A0A0A",
+        "image_border_color": "#000000",
+        "background_color": "#FFFFFF",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "margin_horizontal": 0,
+        "margin_horizontal_mobile": 0,
+        "padding_top": 24,
+        "padding_bottom": 24,
+        "padding_horizontal": 0,
+        "padding_horizontal_mobile": 0,
+        "full_width": true,
+        "content_width": 120,
+        "border_thickness": 0,
+        "section_radius": 0,
+        "lazy": true
+      }
+    },
     "54f7b6ce-e4ba-42b3-9550-cde9eb5ab2b4": {
       "type": "testimonials",
       "blocks": {
@@ -700,95 +790,6 @@
         "show_section_divider_mobile": false,
         "top_padding_mobile": 20,
         "bottom_padding_mobile": 20
-      }
-    },
-    "insta_j4pcLB": {
-      "type": "insta",
-      "blocks": {
-        "image_XQdYbW": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/WhatsApp_Image_2025-03-12_at_4.16.05_PM.jpg",
-            "url": "https://instagram.com/teal.tea"
-          }
-        },
-        "image_NMaJrC": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/WhatsApp_Image_2025-03-12_at_4.16.05_PM_1.jpg",
-            "url": "https://instagram.com/teal.tea"
-          }
-        },
-        "image_hM6jrw": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/WhatsApp_Image_2025-03-12_at_4.16.06_PM.jpg",
-            "url": "https://instagram.com/teal.tea"
-          }
-        },
-        "image_MetHC7": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/WhatsApp_Image_2025-03-12_at_4.16.06_PM_1.jpg",
-            "url": "https://instagram.com/teal.tea"
-          }
-        },
-        "image_x4cTWe": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/WhatsApp_Image_2025-03-12_at_4.16.06_PM_2.jpg",
-            "url": "https://instagram.com/teal.tea"
-          }
-        }
-      },
-      "block_order": [
-        "image_XQdYbW",
-        "image_NMaJrC",
-        "image_hM6jrw",
-        "image_MetHC7",
-        "image_x4cTWe"
-      ],
-      "settings": {
-        "scrolling_velocity": 70,
-        "scrolling_velocity_mobile": 70,
-        "scrolling_velocity_image": 70,
-        "scrolling_velocity_image_mobile": 70,
-        "scrolling_gap": 100,
-        "scrolling_gap_mobile": 70,
-        "scrolling_gap_image": 150,
-        "scrolling_gap_image_mobile": 150,
-        "reverse_direction": false,
-        "pause_hover": false,
-        "text": "@TEAL.TEA",
-        "text_custom": false,
-        "text_font": "josefin_sans_n4",
-        "text_size": 40,
-        "text_size_mobile": 40,
-        "text_height": 150,
-        "image_width": 235,
-        "image_width_mobile": 175,
-        "image_radius": 0,
-        "image_border_thickness": 0,
-        "image_ratio": "square",
-        "image_ratio_mobile": "square",
-        "text_color": "#0A0A0A",
-        "image_border_color": "#000000",
-        "background_color": "#FFFFFF",
-        "background_gradient": "",
-        "border_color": "#000000",
-        "margin_top": 0,
-        "margin_bottom": 0,
-        "margin_horizontal": 0,
-        "margin_horizontal_mobile": 0,
-        "padding_top": 24,
-        "padding_bottom": 24,
-        "padding_horizontal": 0,
-        "padding_horizontal_mobile": 0,
-        "full_width": true,
-        "content_width": 120,
-        "border_thickness": 0,
-        "section_radius": 0,
-        "lazy": true
       }
     }
   },
