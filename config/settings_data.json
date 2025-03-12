@@ -171,7 +171,19 @@
     "checkout_button_color": "#273a89",
     "checkout_error_color": "#E12B28",
     "show_icon_button": true,
-    "content_for_index": []
+    "content_for_index": [],
+    "blocks": {
+      "4275615285897611771": {
+        "type": "shopify://apps/fera/blocks/embed/2fbfcfa7-8a04-479f-89a8-0621fa099c51",
+        "disabled": false,
+        "settings": {}
+      },
+      "442549160356511856": {
+        "type": "shopify://apps/ck-whatsapp-chat-abandoned/blocks/app-embed-block/ce4c5d89-06d5-4502-b18d-35d424a3f693",
+        "disabled": false,
+        "settings": {}
+      }
+    }
   },
   "presets": {
     "Puff": {
