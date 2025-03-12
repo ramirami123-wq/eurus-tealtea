@@ -633,18 +633,44 @@
           "settings": {
             "icon_star": "5_star",
             "custom_icon": "",
-            "title": "“Add client reviews & testimonials to showcase your store’s happy clients.“",
-            "text": "",
-            "author": "Author’s Name",
-            "author_note": "<p>Note</p>",
-            "product": ""
+            "title": "Best Tea Ever!",
+            "text": "<p>I absolutely love Teal Teame's <strong>Mixed Berries Antioxidant Tea</strong>! The flavor is rich, and I feel so refreshed after drinking it. It has become my go-to tea every morning!</p>",
+            "author": "Charbel M.",
+            "author_note": "",
+            "product": "mixed-berries-antioxidant"
+          }
+        },
+        "testimonial_CYbr7f": {
+          "type": "testimonial",
+          "settings": {
+            "icon_star": "5_star",
+            "custom_icon": "",
+            "title": "Perfect for Digestion",
+            "text": "<p>The <strong>Balance – Bloating Relief Tea</strong> works wonders! I used to feel heavy after meals, but this tea helps me feel lighter and more comfortable. Highly recommended!</p>",
+            "author": "Celine S.",
+            "author_note": "",
+            "product": "balance-bloating-relief"
+          }
+        },
+        "testimonial_yUKB4N": {
+          "type": "testimonial",
+          "settings": {
+            "icon_star": "5_star",
+            "custom_icon": "",
+            "title": "Boosted My Energy!",
+            "text": "<p>I replaced my morning coffee with the <strong>Matcha Berries – Energy & Focus Tea</strong>, and I feel amazing! It gives me the energy I need without the jitters. Love it!</p>",
+            "author": "Daniel K.",
+            "author_note": "",
+            "product": "matcha-berries-energy-focus"
           }
         }
       },
       "block_order": [
-        "template--21828924539181__54f7b6ce-e4ba-42b3-9550-cde9eb5ab2b4-testimonial-1"
+        "template--21828924539181__54f7b6ce-e4ba-42b3-9550-cde9eb5ab2b4-testimonial-1",
+        "testimonial_CYbr7f",
+        "testimonial_yUKB4N"
       ],
-      "disabled": true,
+      "custom_css": [],
       "settings": {
         "heading": "",
         "highlight_type": "underline",
@@ -656,7 +682,7 @@
         "show_pagination": false,
         "auto_play": false,
         "change_slides_speed": 5,
-        "show_author_image": true,
+        "show_author_image": false,
         "author_image": "top",
         "image_ratio": "100",
         "desktop_height": 500,

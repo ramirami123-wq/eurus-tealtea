@@ -15,14 +15,14 @@
     "colors_heading": "#211e1e",
     "colors_heading_highlight": "#273a89",
     "colors_text": "#273a89",
-    "colors_text_link": "#743718",
+    "colors_text_link": "#ffffff",
     "colors_price": "#211e1e",
     "colors_price_sale": "#a8283c",
     "colors_error": "#a8283c",
     "colors_success": "#157f7f",
     "colors_line_and_borders": "#ffffff",
-    "colors_cart_dot": "#273a89",
-    "colors_cart_dot_text": "#ffffff",
+    "colors_cart_dot": "#ffffff",
+    "colors_cart_dot_text": "#273a89",
     "colors_icon_rating": "#273a89",
     "secondary_background": "#ffffff",
     "secondary_heading": "#211e1e",
@@ -39,7 +39,7 @@
     "colors_footer_background": "#273a89",
     "colors_footer_heading": "#ffffff",
     "colors_footer_text": "#ffffff",
-    "colors_footer_textlink": "#743718",
+    "colors_footer_textlink": "#ffffff",
     "colors_footer_line": "#ffffff",
     "colors_image_treatment_overlay": "#202020",
     "colors_image_treatment_text": "#ffffff",
@@ -173,11 +173,6 @@
     "show_icon_button": true,
     "content_for_index": [],
     "blocks": {
-      "4275615285897611771": {
-        "type": "shopify://apps/fera/blocks/embed/2fbfcfa7-8a04-479f-89a8-0621fa099c51",
-        "disabled": false,
-        "settings": {}
-      },
       "442549160356511856": {
         "type": "shopify://apps/ck-whatsapp-chat-abandoned/blocks/app-embed-block/ce4c5d89-06d5-4502-b18d-35d424a3f693",
         "disabled": false,
