@@ -712,7 +712,7 @@
         "content_width": 120,
         "border_thickness": 0,
         "section_radius": 0,
-        "lazy": true
+        "lazy": false
       }
     },
     "54f7b6ce-e4ba-42b3-9550-cde9eb5ab2b4": {
