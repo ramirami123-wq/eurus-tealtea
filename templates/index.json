@@ -544,6 +544,9 @@
         "image_banner_8paKKK",
         "buttons_QnF3ET"
       ],
+      "custom_css": [
+        "{font-family: \"Manrope\", sans-serif !important;}"
+      ],
       "settings": {
         "heading": "Promotion Banner",
         "image": "shopify://shop_images/4-2-1536x874.png",
