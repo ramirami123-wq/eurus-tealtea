@@ -64,6 +64,9 @@
     },
     "header": {
       "type": "header",
+      "custom_css": [
+        "* {font-family: \"Manrope\", sans-serif !important;}"
+      ],
       "settings": {
         "menu": "main-menu",
         "select_motion": "hover",
