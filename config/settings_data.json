@@ -909,6 +909,8 @@
     }
   },
   "platform_customizations": {
-    "custom_css": []
+    "custom_css": [
+      ".whitespace-nowrap,h5,h2,button {font-family: \"Manrope\", sans-serif !important;}"
+    ]
   }
 }
