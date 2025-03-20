@@ -1,12 +1,6 @@
 <!doctype html>
 <html class="no-js{% if settings.theme_mode_default == "dark" %} dark{% endif %}" lang="{{ request.locale.iso_code }}"{% if settings.lang_direction contains request.locale.iso_code %} dir="rtl"{% endif %}>
   <head>
-    @font-face {
-    font-family: 'Adorn Engraved';
-    src: url('{{ "AdornEngraved.ttf" | asset_url }}') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-}
 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
