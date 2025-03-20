@@ -910,7 +910,7 @@
   },
   "platform_customizations": {
     "custom_css": [
-      ".whitespace-nowrap,h5,h2,button , a{font-family: \"Manrope\", sans-serif !important;}"
+      ".whitespace-nowrap,h5,h2,button,a,h1 {font-family: \"Manrope\", sans-serif !important;}"
     ]
   }
 }
