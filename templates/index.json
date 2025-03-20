@@ -141,7 +141,7 @@
       ],
       "custom_css": [
         "img {width: 6rem;}",
-        "p {font-family: \"Manrope\", sans-serif !important;}"
+        "h5 {font-family: \"Manrope\", sans-serif !important;}"
       ],
       "settings": {
         "heading_light": "rgba(0,0,0,0)",
