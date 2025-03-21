@@ -23,7 +23,7 @@
             "subheading": "",
             "heading": "Aromatic Blends for Mind, Body & Soul",
             "highlight_type": "underline",
-            "heading_size": 170,
+            "heading_size": 200,
             "heading_tag": "h2",
             "text": "",
             "button_label_1": "",
@@ -57,6 +57,7 @@
       "block_order": [
         "971b1015-ef28-4d4a-a43c-646bfd6da4a0"
       ],
+      "custom_css": [],
       "settings": {
         "show_hero": true,
         "auto_play": true,
