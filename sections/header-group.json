@@ -39,6 +39,9 @@
       "block_order": [
         "6be690ad-170e-4af3-9bbb-0a11620d222a"
       ],
+      "custom_css": [
+        "* {font-family: \"Manrope\", sans-serif !important;}"
+      ],
       "settings": {
         "enable": true,
         "show_only_on_homepage": false,
