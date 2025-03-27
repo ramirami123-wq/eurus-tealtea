@@ -107,7 +107,7 @@
         "text_PiEtAT": {
           "type": "text",
           "settings": {
-            "text": "<h5>Renowned for creating premium certified organic and aromatic blends since 1878 in Germany; Teal Tea sources a wide range of premium tea leaves from all over the world to deliver them to today’s health-conscious consumers.</h5>",
+            "text": "<h3>Renowned for creating premium certified organic and aromatic blends since 1878 in Germany; Teal Tea sources a wide range of premium tea leaves from all over the world to deliver them to today’s health-conscious consumers.</h3>",
             "number_of_lines_shown": "none",
             "read_more_label": "Read more",
             "see_less_label": "See less"
@@ -142,7 +142,7 @@
       ],
       "custom_css": [
         "img {width: 6rem;}",
-        "h5 {font-family: \"Manrope\", sans-serif !important;}"
+        "h3 {font-family: \"Manrope\", sans-serif !important;}"
       ],
       "settings": {
         "heading_light": "rgba(0,0,0,0)",
