@@ -98,7 +98,7 @@
         "heading_pfFjVy": {
           "type": "heading",
           "settings": {
-            "heading": "SIP INTO THETEAL EXPERIENCE",
+            "heading": "SIP INTO THE TEAL EXPERIENCE",
             "highlight_type": "underline",
             "heading_size": 130,
             "heading_tag": "h2"
@@ -170,7 +170,59 @@
         "template--21829637407021__d557b959-57cb-476f-adb6-18808587f120-text-1": {
           "type": "text",
           "settings": {
-            "text": "DELIVERY ALL OVER LEBANON",
+            "text": "Certified Organic",
+            "highlight_type": "underline",
+            "text_size": 120,
+            "text_color": "primary",
+            "spacing_left": 0,
+            "spacing_right": 0,
+            "spacing_left_mobile": 0,
+            "spacing_right_mobile": 0
+          }
+        },
+        "text_gkwA8c": {
+          "type": "text",
+          "settings": {
+            "text": "Plastic-Free",
+            "highlight_type": "underline",
+            "text_size": 120,
+            "text_color": "primary",
+            "spacing_left": 0,
+            "spacing_right": 0,
+            "spacing_left_mobile": 0,
+            "spacing_right_mobile": 0
+          }
+        },
+        "text_69n9gp": {
+          "type": "text",
+          "settings": {
+            "text": "Aromatic",
+            "highlight_type": "underline",
+            "text_size": 120,
+            "text_color": "primary",
+            "spacing_left": 0,
+            "spacing_right": 0,
+            "spacing_left_mobile": 0,
+            "spacing_right_mobile": 0
+          }
+        },
+        "text_hUaxVV": {
+          "type": "text",
+          "settings": {
+            "text": "Imported",
+            "highlight_type": "underline",
+            "text_size": 120,
+            "text_color": "primary",
+            "spacing_left": 0,
+            "spacing_right": 0,
+            "spacing_left_mobile": 0,
+            "spacing_right_mobile": 0
+          }
+        },
+        "text_dErDyM": {
+          "type": "text",
+          "settings": {
+            "text": "Premium Grade",
             "highlight_type": "underline",
             "text_size": 120,
             "text_color": "primary",
@@ -182,7 +234,11 @@
         }
       },
       "block_order": [
-        "template--21829637407021__d557b959-57cb-476f-adb6-18808587f120-text-1"
+        "template--21829637407021__d557b959-57cb-476f-adb6-18808587f120-text-1",
+        "text_gkwA8c",
+        "text_69n9gp",
+        "text_hUaxVV",
+        "text_dErDyM"
       ],
       "settings": {
         "show_border": false,
