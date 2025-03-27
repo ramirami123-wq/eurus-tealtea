@@ -20,7 +20,7 @@
             "icon": "none",
             "another_icon": "",
             "custom_icon": "",
-            "text": "Delivery All Over Lebanon",
+            "text": "Delivery All Over Lebanon🇱🇧",
             "text_size": 90,
             "link": "",
             "open_new_window": false,
@@ -40,7 +40,7 @@
         "6be690ad-170e-4af3-9bbb-0a11620d222a"
       ],
       "custom_css": [
-        "* {font-family: \"Manrope\", sans-serif !important;}"
+        "* {font-family: \"Manrope\", sans-serif !important; font-size:0.8rem;}"
       ],
       "settings": {
         "enable": true,
@@ -62,7 +62,7 @@
         "alignment": "right",
         "show_language_selector": true,
         "show_currency_selector": true,
-        "text_size_toolbar": 80
+        "text_size_toolbar": 120
       }
     },
     "header": {
