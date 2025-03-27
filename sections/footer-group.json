@@ -158,12 +158,26 @@
             "link_image_footer": "",
             "open_new_window": false
           }
+        },
+        "image_8gcD3M": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/icon-footer-final-1_1.png",
+            "image_width": 200,
+            "link_image_footer": "",
+            "open_new_window": false,
+            "rounded_corner_image": false,
+            "alignment": "center",
+            "text": "",
+            "spacing": 28
+          }
         }
       },
       "block_order": [
         "footer-0",
         "image_WErrkn",
-        "text_T7dAcY"
+        "text_T7dAcY",
+        "image_8gcD3M"
       ],
       "settings": {
         "columns_desktop": 5,
