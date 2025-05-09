@@ -31,6 +31,10 @@
             "text_size_price": 70
           }
         },
+        "badges_QRycAi": {
+          "type": "badges",
+          "settings": {}
+        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -194,6 +198,7 @@
         "rating_AeRdFJ",
         "product_name_xkPbAa",
         "price",
+        "badges_QRycAi",
         "variant_picker",
         "quantity_selector",
         "gift_wrapping_EK3NQn",
