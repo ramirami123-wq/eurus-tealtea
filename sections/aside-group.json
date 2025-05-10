@@ -22,7 +22,7 @@
             "icon": "none",
             "another_icon": "",
             "custom_icon": "",
-            "content": "Save {sale}",
+            "content": "Save Up To {sale}",
             "display_type": "rounded-full",
             "font_size": 90,
             "font_size_mobile": 90,
