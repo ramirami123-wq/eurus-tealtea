@@ -1,11 +1,11 @@
 [
   {
     "name": "theme_info",
-    "theme_name": "Eurus",
+    "theme_name": "allofus",
     "theme_version": "8.1.0",
     "theme_author": "BSS Commerce",
-    "theme_documentation_url": "https://support.omnithemes.com/blogs/themes/eurus-theme",
-    "theme_support_url": "https://omnithemes.com/contact/"
+    "theme_documentation_url": "https://support.com/blogs/themes/allofus",
+    "theme_support_url": "https://allofus.com/contact/"
   },
   {
     "name": "t:settings_schema.theme-mode.name",
